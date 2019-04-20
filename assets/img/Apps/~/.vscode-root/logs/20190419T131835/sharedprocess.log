@@ -1,0 +1,73 @@
+[2019-04-19 13:18:42.550] [sharedprocess] [info] main {"machineId":"e428fe29ad5b51809f78759bdafd45c5d966635b96c45f65df898867611de468"}
+[2019-04-19 13:18:42.882] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:18:43.855] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:18:49.947] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:18:49.967] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:18:50.703] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:18:50.746] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:18:53.282] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:19:09.092] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:19:09.105] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:19:09.586] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:19:09.630] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:19:11.947] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:19:22.654] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-19 13:20:19.081] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:20:19.094] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:20:19.816] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:20:19.878] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:20:23.855] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:25:24.204] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:30:24.219] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:11.643] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:11.661] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:11.670] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:11.728] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:12.514] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:33:12.574] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:33:12.620] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-19 13:33:45.752] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2019-04-19 13:33:45.813] [sharedprocess] [info] Scanned user extensions: 0
+[2019-04-19 13:33:48.869] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /tmp/ebf50f81-a267-45cd-9fcf-4d843adf827d
+[2019-04-19 13:34:47.503] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ritwickdey.liveserver-5.6.1: ritwickdey.liveserver
+[2019-04-19 13:34:47.515] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.6.1
+[2019-04-19 13:34:47.559] [sharedprocess] [info] Installation completed. ritwickdey.liveserver
+[2019-04-19 13:34:47.675] [sharedprocess] [info] Extensions installed successfully: ritwickdey.liveserver
+[2019-04-19 13:35:24.237] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 13:40:24.409] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 13:45:24.507] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 13:50:24.539] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 13:55:24.559] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:00:24.579] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:05:24.600] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:10:24.624] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:15:24.644] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:20:24.663] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:25:25.100] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:30:25.119] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:35:25.140] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:40:25.160] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:45:25.178] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:50:25.198] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 14:55:25.217] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:00:25.238] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:05:25.257] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:10:25.275] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:15:25.298] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:20:25.318] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:25:25.810] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:30:25.832] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:35:25.853] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:40:25.872] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:45:25.890] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:50:25.910] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 15:55:25.929] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:00:25.947] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:05:25.968] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:10:25.995] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:15:26.035] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:20:26.089] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:25:26.548] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:30:26.581] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:35:26.599] [sharedprocess] [info] Scanned user extensions: 1
+[2019-04-19 16:40:26.620] [sharedprocess] [info] Scanned user extensions: 1

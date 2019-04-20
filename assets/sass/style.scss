@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Raleway:500');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:700');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+$roboto-sans: 'Roboto',
+sans-serif;
+$roboto-slab: 'Roboto Slab',
+serif;
+$raleway-sans: 'Raleway',
+sans-serif;
+$pacifico-cursive: 'Pacifico',
+cursive;
+$font-family: 'PT Sans',
+sans-serif;
+$secundary-color: #1bac9c;
+//skills
+$background-color: #1a1a1a;
+$progressbar-title-color: #fff;
+$red: #c0392b;
+$blue: #1199ff;
+$purple: #9b59b6;
+$orange: #ffa500;
+$green: #27ae60;
+$li-padding: 5px;
+$animation-delay: .7s;
+@import "cards";
+@import "skills";
+@import "animation";
+body,
+html {
+    overflow-x: hidden;
+    max-width: 100%;
+}
+
+h5 {
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+    font-family: $roboto-sans;
+    font-weight: 700!important;
+}
+
+.skills-background {
+    background: $background-color;
+    h5 {
+        font-family: $font-family;
+    }
+}
+
+.size-devicons {
+    font-size: 5.8rem!important;
+}
+
+.roboto-slab {
+    font-family: $roboto-slab;
+    font-weight: 700;
+}
+
+.title-section {
+    font-size: 2.5rem;
+}
+
+.change-color {
+    color: $secundary-color;
+}
+
+.change-color-background {
+    background: $secundary-color;
+}
+
+.fab {
+    transition: 0.4s;
+}
+
+.btn:hover {
+    background: rgb(19, 133, 119);
+}
+
+.opacity-cv {
+    opacity: 0.7;
+}
+
+.stripe {
+    border-top: 3px solid $secundary-color;
+    margin: auto;
+    padding-bottom: 3%;
+    width: 70px;
+}
+
+.stripe-white {
+    border-top: 3px solid #fff;
+    margin: auto;
+    padding-bottom: 3%;
+    width: 70px;
+}
+
+.margin-right {
+    margin-right: 5.7rem;
+}
+
+.background-portfolio-section {
+    background: rgb(248, 248, 248);
+}
+
+.height-img-participations {
+    height: 155px;
+}
+
+.bg-footer {
+    background: $secundary-color;
+}
+
+.color-rc {
+    color: $secundary-color;
+}
+
+.name-letter {
+    font-family: $pacifico-cursive;
+}
+
+#triangle-bottomright {
+    width: 0;
+    height: 0px;
+    border-bottom: 75px solid rgb(255, 255, 255);
+    border-left: 50vw solid transparent;
+    position: absolute;
+    margin-top: -73px;
+    display: none;
+}
+
+#triangle-bottomleft {
+    width: 0;
+    height: 0px;
+    border-bottom: 75px solid white;
+    border-right: 50vw solid transparent;
+    position: absolute;
+    margin-top: -73px;
+    display: none;
+}
+
+.hover-skills:hover {
+    color: #8af3e7!important;
+}
+
+.hover-skills {
+    transition: 0.4s;
+}
+
+@media only screen and (max-width: 991px) {
+    .margin-right {
+        margin-right: 0rem;
+    }
+}
+
+@media only screen and (max-width: 418px) {
+    #triangle-bottomright {
+        display: block;
+        left: 50%;
+        transform: translate(0px, 0);
+    }
+    #triangle-bottomleft {
+        display: block;
+        left: 0%;
+        transform: translate(0px, 0);
+    }
+    .size-devicons {
+        font-size: 5rem!important;
+    }
+}

@@ -1,0 +1,4 @@
+[2019-04-19 13:18:53.058] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-04-19 13:19:12.090] [renderer1] [info] no standard startup: not just one text editor
+[2019-04-19 13:20:24.118] [renderer1] [info] no standard startup: not running latest version
+[2019-04-19 14:27:33.904] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
