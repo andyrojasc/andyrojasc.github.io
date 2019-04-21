@@ -21,29 +21,30 @@
     <link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
 </head>
 
-<body id="body">
+<body id="body" data-spy="scroll" data-target="#navbar">
 
     <header>
-        <nav class="navbar navbar-expand-lg justify-content-sm-start fixed-top py-2">
+        <nav class="navbar navbar-expand-lg justify-content-sm-start fixed-top py-2" id="navbar">
             <div class="container">
-                <a class="page-scroll navbar-brand order-1 order-lg-0 ml-lg-0 ml-2 mr-auto name-letter text-dark" href="#presentation-section">Andy<span class="color-rc" >RC</span></a>
+                <a class="page-scroll-index navbar-brand order-1 order-lg-0 ml-lg-0 ml-2 mr-auto name-letter text-dark"
+                    href="#presentation-section">Andy<span class="color-rc">RC</span></a>
                 <button class="navbar-toggler order-2 text-dark" type="button">
-                        <div class="animated-icon1"><span></span><span></span><span></span></div>
+                    <div class="animated-icon1"><span></span><span></span><span></span></div>
                 </button>
-                <div class="collapse navbar-collapse ml-0 ml-md-2 bg-white py-3 px-4 p-lg-0 mt-5 mt-lg-0 d-flex flex-column flex-lg-row flex-xl-row justify-content-lg-end mobileMenu"
+                <div class="collapse navbar-collapse ml-0 ml-lg-2 bg-white py-3 px-4 p-lg-0 mt-5 mt-lg-0 d-flex flex-column flex-lg-row flex-xl-row justify-content-lg-end mobileMenu"
                     id="navbarSupportedContent">
-                    <ul class="navbar-nav align-self-stretch mr-4">
+                    <ul class="navbar-nav align-self-stretch nav nav-pills">
                         <li class="nav-item mr-2">
-                            <a class="page-scroll nav-link" href="#presentation-section">Home</a>
+                            <a class="page-scroll nav-link pl-1 pl-lg-0" href="#presentation-section">Home</a>
                         </li>
                         <li class="nav-item mr-2 ">
-                            <a class="page-scroll nav-link" href="#portfolio-section">Portfolio</a>
+                            <a class="page-scroll nav-link pl-1 pl-lg-0" href="#portfolio-section">Portfolio</a>
                         </li>
                         <li class="nav-item mr-2">
-                            <a class="page-scroll nav-link" href="#skills-section">Skills</a>
+                            <a class="page-scroll nav-link pl-1 pl-lg-0" href="#skills-section">Skills</a>
                         </li>
                         <li class="nav-item">
-                            <a class="page-scroll nav-link" href="#participations-section">Participations</a>
+                            <a class="page-scroll nav-link pl-1 pl-lg-0" href="#participations-section">Participations</a>
                         </li>
                     </ul>
                 </div>
@@ -53,10 +54,11 @@
 
     <div class="overlay"></div>
 
+    
     <section id="presentation-section">
         <div class="container-fluid">
-            <div class="row pt-5 mt-5 pb-4">
-            
+            <div class="row pt-7 pb-4">
+
                 <div class="col-lg-5 col-md-12 col-sm-12 text-center px-0">
                     <img src="assets/img/foto.png" class="img-fluid" alt="Andy Rojas">
                     <div id="triangle-bottomright"></div>
@@ -384,7 +386,6 @@
     </section>
 
 
-
     <footer>
         <div class="container-fluid">
             <div class="row">
@@ -397,7 +398,9 @@
 
     <script src="https://code.jquery.com/jquery-3.4.0.min.js"
         integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous"></script>
-    <script src="assets/js/script.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="assets/js/script.js"></script>
     <script src="assets/js/sos.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script>

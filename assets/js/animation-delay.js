@@ -2,10 +2,8 @@
     var preload = document.getElementById("preload");
     var load = document.getElementById("load");
     var loading = 0;
-    if(loading<=20)
-    {
-        var id = setInterval(frame, 64);
-    }
+    var id = setInterval(frame, 64);
+
 
     function frame() {
         if (loading == 50) {

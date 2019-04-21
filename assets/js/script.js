@@ -55,8 +55,9 @@ $(document).ready(function(){
 
   jQuery(document).ready(function($) {
 
-    $(".page-scroll").click(function(event){     
+    $(".page-scroll, .page-scroll-index").click(function(event){     
         event.preventDefault();
         $('html,body').animate({scrollTop:$(this.hash).offset().top - 59}, 800); 
     });
 });
+
