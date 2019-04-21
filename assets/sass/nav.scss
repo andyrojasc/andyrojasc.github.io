@@ -141,3 +141,11 @@ nav{
       }
     }
   }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: $secundary-color!important;
+}
+
+.dropdown-item .active{
+    background-color: $secundary-color!important;
+}

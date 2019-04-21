@@ -410,6 +410,12 @@ nav {
       position: fixed;
       bottom: 0; } }
 
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #1bac9c !important; }
+
+.dropdown-item .active {
+  background-color: #1bac9c !important; }
+
 body,
 html {
   overflow-x: hidden;
