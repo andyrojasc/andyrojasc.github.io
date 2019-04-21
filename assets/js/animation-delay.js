@@ -1,4 +1,4 @@
-(function() {
+/*(function() {
     var preload = document.getElementById("preload");
     var load = document.getElementById("load");
     var loading = 0;
@@ -16,4 +16,9 @@
             }
         }
     }
-})();
+})();*/
+
+jQuery(window).on('load',function(){
+    $("#precarga").delay(1500).fadeOut(1000);
+    $("#ready-screen").delay(2500).fadeIn(1000);
+});

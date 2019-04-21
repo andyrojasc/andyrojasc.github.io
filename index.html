@@ -9,26 +9,433 @@
     <meta name="description" content="Andy Rojas Córdoba´s portfolio">
     <meta name="author" content=" Andy Rojas Córdoba">
     <title>Andy Rojas Córdoba</title>
+
+    <!--Bootstrap css cdn link-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!--Fontawesome css cdn link-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!--css link-->
     <link rel="stylesheet" href="assets/css/style.css">
-    <!--Bootstrap css cdn link-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href='//cdn.jsdelivr.net/devicons/1.8.0/css/devicons.min.css' rel='stylesheet'>
 </head>
 
-<body id="preload">
-    <div class="container-fluid">
-        <div class="row text-center margin-welcome">
-            <div class="col-12">
-                <h1>Welcome to <span class="change-color">Andy´s Portfolio </span></h1>
+<body id="body" data-spy="scroll" data-target="#navbar">
+
+    <div id="precarga">
+        <div class="container-fluid">
+                <div class="row text-center margin-welcome">
+                    <div class="col-12">
+                        <h1>Welcome to <span class="change-color">Andy´s Portfolio </span></h1>
+                    </div>
+                </div>
+            </div>
+            <div class='tetrominos'>
+                <div class='tetromino box1'></div>
+                <div class='tetromino box2'></div>
+                <div class='tetromino box3'></div>
+                <div class='tetromino box4'></div>
+            </div>
+    </div>
+
+    <style>
+        #precarga{
+            width: 100%;
+            height: 100%;
+            background: #fff;
+            z-index: 1000;
+            top: 0;
+            left: 0;
+            position: fixed;
+        }
+
+        #ready-screen{
+            display:none;
+        }
+    </style>
+
+    <div id="ready-screen">
+    <header>
+        <nav class="navbar navbar-expand-lg justify-content-sm-start fixed-top py-2" id="navbar">
+            <div class="container">
+                <a class="page-scroll-index navbar-brand order-1 order-lg-0 ml-lg-0 ml-2 mr-auto name-letter text-dark"
+                    href="#presentation-section">Andy<span class="color-rc">RC</span></a>
+                <button class="navbar-toggler order-2 text-dark" type="button">
+                    <div class="animated-icon1"><span></span><span></span><span></span></div>
+                </button>
+                <div class="collapse navbar-collapse ml-0 ml-lg-2 bg-white py-3 px-4 p-lg-0 mt-5 mt-lg-0 d-flex flex-column flex-lg-row flex-xl-row justify-content-lg-end mobileMenu"
+                    id="navbarSupportedContent">
+                    <ul class="navbar-nav align-self-stretch nav nav-pills">
+                        <li class="nav-item mr-2">
+                            <a class="page-scroll nav-link pl-1 pl-lg-2" href="#presentation-section">Home</a>
+                        </li>
+                        <li class="nav-item mr-2 ">
+                            <a class="page-scroll nav-link pl-1 pl-lg-2" href="#portfolio-section">Portfolio</a>
+                        </li>
+                        <li class="nav-item mr-2">
+                            <a class="page-scroll nav-link pl-1 pl-lg-2" href="#skills-section">Skills</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="page-scroll nav-link pl-1 pl-lg-2" href="#participations-section">Participations</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="overlay"></div>
+
+    
+    <section id="presentation-section">
+        <div class="container-fluid">
+            <div class="row pt-7 pb-4">
+
+                <div class="col-lg-5 col-md-12 col-sm-12 text-center px-0">
+                    <img src="assets/img/foto.png" class="img-fluid" alt="Andy Rojas">
+                    <div id="triangle-bottomright"></div>
+                    <div id="triangle-bottomleft"></div>
+                </div>
+                <div class="col-lg-7 col-md-12 col-sm-12 pl-0 mt-4">
+                    <div class="text-center text-lg-left">
+                        <h1>I´m <span class="change-color">Andy Rojas Cordoba</span></h1>
+                        <h5>Web & Mobile Developer</h5>
+                    </div>
+                    <hr class="ml-2 ml-md-2 ml-lg-0 margin-right">
+                    <div class="px-3 px-lg-0">
+                        <div class="row">
+                            <div class="col-lg-2 col-md-3 col-4">
+                                <p>Birthday:</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-8">
+                                <p class="opacity-cv">March 20, 1998</p>
+                            </div>
+
+                            <div class="col-lg-2 col-md-3 col-4">
+                                <p>E-mail:</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-8">
+                                <p class="opacity-cv">andyrojasucr@gmail.com</p>
+                            </div>
+
+                            <div class="col-lg-2 col-md-3 col-4">
+                                <p>Phone:</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-8">
+                                <p class="opacity-cv">+506 61961583</p>
+                            </div>
+
+                            <div class="col-lg-2 col-md-3 col-4">
+                                <p>Nacionality:</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-8">
+                                <p class="opacity-cv">Costa Rican</p>
+                            </div>
+
+                            <div class="col-lg-2 col-md-3 col-4">
+                                <p>Address:</p>
+                            </div>
+                            <div class="col-lg-10 col-md-9 col-8">
+                                <p class="opacity-cv">200 meters east of the Coopenae, Puntarenas</p>
+                            </div>
+                            <div class="col-12 text-center mt-1">
+                                <button class="btn change-color-background text-white">Download CV</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row change-color-background py-2 justify-content-center">
+                <div class="text-center col-lg-1 col-md-2 col-sm-2 col-2 my-2">
+                    <a href="https://codepen.io/Andy_Rojas/#" target="_blank">
+                        <i class="fab fa-codepen fa-2x text-white"></i>
+                    </a>
+                </div>
+                <div class="text-center col-lg-1 col-md-2 col-sm-2 col-2 my-2">
+                    <a href="https://github.com/andyrojasc" target="_blank">
+                        <i class="fab fa-github fa-2x text-white"></i>
+                    </a>
+                </div>
+                <div class="text-center col-lg-1 col-md-2 col-sm-2 col-2 my-2">
+                    <a href="https://www.instagram.com/andy_2003/" target="_blank">
+                        <i class="fab fa-instagram fa-2x text-white"></i>
+                    </a>
+                </div>
+                <div class="text-center col-lg-1 col-md-2 col-sm-2 col-2 my-2">
+                    <a href="https://www.facebook.com/andy.rojascordoba" target="_blank">
+                        <i class="fab fa-facebook-f fa-2x text-white"></i>
+                    </a>
+                </div>
+                <div class="text-center col-lg-1 col-md-2 col-sm-2 col-2 my-2">
+                    <a href="https://t.me/Andy_RC" target="_blank">
+                        <i class="fab fa-telegram-plane fa-2x text-white"></i>
+                    </a>
+                </div>
             </div>
         </div>
-    </div>
-    <div class='tetrominos'>
-        <div class='tetromino box1'></div>
-        <div class='tetromino box2'></div>
-        <div class='tetromino box3'></div>
-        <div class='tetromino box4'></div>
-    </div>
+    </section>
+
+    <section id="portfolio-section">
+        <div class="container-fluid px-lg-5 pb-5 background-portfolio-section">
+            <div class="row">
+                <div class="col-12 text-center pt-5">
+                    <h2 class="title-section">Portfolio</h2>
+                    <div class="stripe"></div>
+                </div>
+            </div>
+            <div class="row px-0 px-lg-5">
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--1 mx-auto" onclick="redirect('https://live-extremenew.pantheonsite.io')">
+                        <img src="assets/img/extreme-news.png" class="img-fluid" alt="Extreme News">
+                        <div class="card__info">
+                            <span class="card__category">Wordpress</span>
+
+                            <h4 class="card__title roboto-slab mb-3">Extreme News</h4>
+                            <span class="card__author"
+                                title="live-extremenew.pantheonsite.io">live-extremenew.pantheonsite.io</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--2 mx-auto" onclick="redirect('https://www.crdreamsexperiences.com/')">
+                        <img src="assets/img/cr-dreams-experiences.png" class="img-fluid" alt="CR Dreams Experiences">
+                        <div class="card__info">
+                            <span class="card__category">HTML</span>
+                            <h4 class="card__title roboto-slab mb-3">CR Dreams Experiences</h4>
+                            <span class="card__author"
+                                title="www.crdreamsexperiences.com">www.crdreamsexperiences.com</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--3 mx-auto" onclick="redirect('https://www.expomedia.site')">
+                        <img src="assets/img/expomedia.png" class="img-fluid" alt="Expomedia UCR 2018">
+                        <div class="card__info">
+                            <span class="card__category">PHP</span>
+                            <h4 class="card__title roboto-slab mb-3">Expomedia UCR 2018</h4>
+                            <span class="card__author" title="www.expomedia.site">www.expomedia.site</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--4 mx-auto" onclick="redirect('https://live-la-cochera.pantheonsite.io')">
+                        <img src="assets/img/la-cochera.png" class="img-fluid" alt="La Cochera - Worpdress">
+                        <div class="card__info">
+                            <span class="card__category">Wordpress</span>
+                            <h4 class="card__title roboto-slab mb-3">La Cochera Food Sport</h4>
+
+                            <span class="card__author"
+                                title="live-la-cochera.pantheonsite.io">live-la-cochera.pantheonsite.io</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--4 mx-auto" onclick="DetectAndServe()">
+                        <img src="assets/img/ORO.png" class="img-fluid" alt="Municipalidad de Orotina">
+                        <div class="card__info">
+                            <span class="card__category">Front end Design</span>
+                            <h4 class="card__title roboto-slab mb-3">Municipalidad de Orotina</h4>
+
+                            <span class="card__author" title="Municipalidad de Orotina">Download Application</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--4 mx-auto"
+                        onclick="redirect('https://petha18.github.io/MinijuegosTallerMultimedia2018/')">
+                        <img src="assets/img/tareco.png" class="img-fluid" alt="Phaser Game">
+                        <div class="card__info">
+                            <span class="card__category">Phaser</span>
+                            <h4 class="card__title roboto-slab mb-3">Tareco</h4>
+
+                            <span class="card__author"
+                                title="petha18.github.io/PhaserGame">petha18.github.io/PhaserGame</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--4 mx-auto">
+                        <img src="assets/img/Soyla.png" class="img-fluid" alt="Soyla App">
+                        <div class="card__info">
+                            <span class="card__category">Ionic</span>
+                            <h4 class="card__title roboto-slab mb-3">Soyla</h4>
+
+                            <span class="card__author" title="Soyla">Coming Soon</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 my-4">
+                    <div class="card-css card--4 mx-auto">
+                        <img src="assets/img/zapato.png" class="img-fluid" alt="Zapato Store - ASP.NET">
+                        <div class="card__info">
+                            <span class="card__category">ASP.NET</span>
+                            <h4 class="card__title roboto-slab mb-3">Zapato Store</h4>
+
+                            <span class="card__author" title="Zapato Store">Coming Soon</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills-section" class="skills-background">
+        <div class="container pb-4">
+            <div class="row pb-4">
+                <div class="col-12 text-center text-white pt-5">
+                    <h2 class="title-section">Skills</h2>
+                    <div class="stripe-white"></div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 text-center px-0 pr-md-3">
+                    <h2 class="text-white py-3 mt-2 mt-md-0">Front End</h2>
+                    <div class="row">
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-html5 text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-css3 text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-javascript text-white size-devicons"></i>
+                        </div>
+
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-bootstrap text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-sass text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills fab fa-react text-white size-devicons"></i>
+                        </div>
+
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-angular text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-ionic text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-wordpress text-white size-devicons"></i>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 col-sm-12 text-center px-0 pl-md-3">
+                    <h2 class="text-white py-3 mt-5 mt-md-0">Back End</h2>
+                    <div class="row">
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-php text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-drupal text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-laravel text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-java text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-npm text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-firebase text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-python text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-visualstudio text-white size-devicons"></i>
+                        </div>
+                        <div class="col-4 my-3 text-center">
+                            <i class="hover-skills devicons devicons-android text-white size-devicons"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="participations-section">
+        <div class="container-fluid pt-1 pb-3 px-lg-5">
+            <div class="row pb-3">
+                <div class="col-12 text-center pt-5">
+                    <h2 class="title-section">Participations</h2>
+                    <div class="stripe"></div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center pb-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/icsc.png" alt="ICSC Colombia 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">Costa Rica Cybersecurity <br> National Team - Colombia 2018</h5>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center pb-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/Mozilla.png" alt="Mozilla Activate 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">Mozilla Firefox Activate <br> Day 2018</h5>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center pb-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/OEA.png" alt="ICSC Colombia 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">Scholarship OEA & <br> MICITT Cybersecurity 2018</h5>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center py-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/foroUCR.png" alt="ICSC Colombia 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">X Forum Free Software <br> Community UCR</h5>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center py-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/Panama2017.png" alt="ICSC Colombia 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">ECSL <br> Panama 2017</h5>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center py-4">
+                    <div class="height-img-participations">
+                        <img src="assets/img/participations/leervivir.png" alt="ICSC Colombia 2018"
+                            class="mx-auto d-block p-2 img-fluid">
+                    </div>
+                    <h5 class="d-block p-2 roboto-slab">Academic excellence 2013 <br> Fundation "Leer es Vivir"</h5>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 pt-4 pb-3 bg-footer text-white text-center">
+                    <p>© Create By <span class="name-letter">AndyRC &nbsp</span>All rights reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.4.0.min.js"
+        integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="assets/js/script.js"></script>
+    <script src="assets/js/sos.js"></script>    
 
     <script src="assets/js/animation-delay.js"></script>
 </body>
