@@ -8,7 +8,6 @@
     }
 
     function frame() {
-        console.log("sds");
         if (loading == 50) {
             clearInterval(id);
             window.open("index-en.html", "_self");
