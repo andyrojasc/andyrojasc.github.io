@@ -131,6 +131,10 @@ $speed: 1.5s;
     }
 }
 
+#body{
+    animation: fadein 2s;
+}
+
 @keyframes fadein {
     from {
         opacity: 0;
