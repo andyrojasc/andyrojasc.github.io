@@ -530,9 +530,8 @@ h3 {
   -o-transition: 0.4s;
   transition: 0.4s; }
 
-@media only screen and (max-width: 991px) {
-  .margin-right {
-    margin-right: 0rem; } }
+.profile-img {
+  border-radius: 1%; }
 
 @media only screen and (max-width: 418px) {
   #triangle-bottomright {
@@ -549,15 +548,29 @@ h3 {
     transform: translate(0px, 0); }
   .size-devicons {
     font-size: 5rem !important; }
+  .profile-img {
+    width: 60vw !important;
+    margin-top: 6% !important; }
   .pt-7 {
     padding-top: 3.9rem !important; } }
 
+@media only screen and (max-width: 991px) {
+  .profile-img {
+    border-radius: 65%;
+    width: 45vw;
+    margin-top: 3%; }
+  .margin-right {
+    margin-right: 0rem; } }
+
 /* Preload */
 #precarga {
-  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  z-index: 1000;
   top: 0;
   left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #fff;
-  z-index: 9999; }
+  position: fixed; }
+
+#ready-screen {
+  display: none; }
