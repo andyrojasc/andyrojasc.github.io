@@ -416,6 +416,12 @@ nav {
 .dropdown-item .active {
   background-color: #1bac9c !important; }
 
+.navbar-toggler:focus {
+  outline: 0; }
+
+nav a:focus {
+  outline: 0; }
+
 body,
 html {
   overflow-x: hidden;

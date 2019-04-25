@@ -149,3 +149,13 @@ nav{
 .dropdown-item .active{
     background-color: $secundary-color!important;
 }
+
+.navbar-toggler:focus {
+  outline: 0;
+}
+
+nav{
+  a:focus{
+    outline: 0;
+  }
+}
