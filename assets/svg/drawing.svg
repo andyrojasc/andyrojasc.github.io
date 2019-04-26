@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="158.18973mm"
+   height="217.95013mm"
+   viewBox="0 0 158.18973 217.95013"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -791,9 +791,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="353.43585"
-     inkscape:cy="-699.18805"
+     inkscape:zoom="0.5"
+     inkscape:cx="-133.70374"
+     inkscape:cy="185.75503"
      inkscape:document-units="mm"
      inkscape:current-layer="g4493"
      showgrid="false"
@@ -803,101 +803,110 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true">
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
-       position="89.769342,187.57288"
+       position="67.440019,399.32596"
        orientation="0,1"
        id="guide6234"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="87.879462,183.41295"
+       position="65.55014,395.16603"
        orientation="0,1"
        id="guide6236"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="84.288688,174.24703"
+       position="61.959366,386.00011"
        orientation="0,1"
        id="guide6240"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="45.735118,264.77233"
+       position="23.405796,476.52541"
        orientation="0,1"
        id="guide6793"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="77.267619,-5.2384829"
+       position="54.938297,206.5146"
        orientation="0,1"
        id="guide5713"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="32.411458,-34.792709"
+       position="10.082136,176.96037"
        orientation="0,1"
        id="guide5766"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="29.170313,-41.010417"
+       position="6.8409912,170.74267"
        orientation="0,1"
        id="guide5768"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="29.349851,-59.75904"
+       position="7.0205292,151.99404"
        orientation="0,1"
        id="guide5772"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="20.932233,-65.976759"
+       position="-1.3970887,145.77632"
        orientation="0,1"
        id="guide5774"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="51.064582,-141.02292"
+       position="28.73526,70.730164"
        orientation="0,1"
        id="guide5806"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="20.932233,-147.24064"
+       position="-1.3970887,64.512444"
        orientation="0,1"
        id="guide5808"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="36.512499,-173.96355"
+       position="14.183177,37.789534"
        orientation="0,1"
        id="guide5820"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="20.932233,-180.18127"
+       position="-1.3970887,31.571814"
        orientation="0,1"
        id="guide5822"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="140.75833,-44.383854"
+       position="118.42901,167.36923"
        orientation="0,1"
        id="guide5824"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="50.204686,-49.08021"
+       position="27.875364,162.67287"
        orientation="0,1"
        id="guide5826"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="124.08958,-38.959897"
+       position="101.76026,172.79319"
        orientation="0,1"
        id="guide5830"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="22.329321,6.1970446"
+       position="-6.9823887e-007,217.95013"
        orientation="0,1"
        id="guide5834"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="28.883009,-45.812043"
+       position="6.5536872,165.94104"
        orientation="1,0"
        id="guide6262"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="30.236914,-62.714518"
+       position="7.9075922,149.03856"
        orientation="1,0"
        id="guide6264"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="145.87953,-47.935465"
+       orientation="1,0"
+       id="guide6339"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -908,23 +917,24 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-22.329322,-290.80296)">
     <g
        transform="matrix(0.35277777,0,0,0.35277777,51.732347,22.691226)"
        inkscape:label="CV Leandro Bello"
        id="g4493">
       <rect
-         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.80273771;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.11389732;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect7362"
          width="528.78595"
-         height="1578.2625"
+         height="2170.1108"
          x="-113.27892"
          y="-64.595993" />
       <rect
@@ -4654,18 +4664,18 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
          xml:space="preserve"><tspan
            id="tspan6176-7"
-           style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.81750002px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+           style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.8175px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="175.59138"
-           x="-6.2783399"
+           x="-6.0432925"
            sodipodi:role="line">Estudiante de Informática y</tspan><tspan
-           style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.81750002px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+           style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.8175px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="186.11435"
-           x="-6.2783399"
+           x="-6.0432959"
            sodipodi:role="line"
            id="tspan6534">Tecnología Multimedia</tspan><tspan
-           style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.81750002px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582;-inkscape-font-specification:'Lato Bold';font-family:Lato;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.8175px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="196.63733"
-           x="-6.2783394"
+           x="-6.0432954"
            sodipodi:role="line"
            id="tspan6536">Universidad de Costa Rica</tspan></text>
       <text
@@ -4687,7 +4697,7 @@
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="248.7164"
-           x="0.40188512"
+           x="0.40188506"
            sodipodi:role="line"
            id="tspan6551">andyrojasc@protonmail.com</tspan></text>
       <text
@@ -4714,7 +4724,7 @@
            id="tspan6561">Puntarenas - Costa Rica</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633"
          x="-63.247589"
          y="295.02304"
          id="text5365-5"><tspan
@@ -4722,7 +4732,7 @@
            id="tspan5363-7"
            x="-63.247589"
            y="295.02304"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633;">PARTICIPACÓN DE LA COMUNIDAD</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633">PARTICIPACÓN DE LA COMUNIDAD</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
@@ -5818,7 +5828,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Wordpress Puntarenas</tspan><tspan
            sodipodi:role="line"
            x="-56.669502"
-           y="1035.4019"
+           y="1035.4017"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            id="tspan6597-1">Miembro | 2018 - 2019 </tspan></text>
       <text
@@ -6157,6 +6167,1019 @@
          cx="-63.442146"
          cy="1354.7921"
          r="1.2723215" />
+      <rect
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         inkscape:export-filename="D:\SistemaOperativo\Desktop\EN.png"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.05443382;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5749"
+         width="448.41183"
+         height="617.8114"
+         x="-83.34716"
+         y="1443.0698" />
+      <rect
+         y="1443.0669"
+         x="-83.34716"
+         height="617.81433"
+         width="169.08946"
+         id="rect5751"
+         style="opacity:1;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:2.48972249;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text5755"
+         y="1484.353"
+         x="132.71834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:1.29750001px;fill:#1a9788;fill-opacity:1;stroke-width:0.50137633"
+           y="1484.353"
+           x="132.71834"
+           id="tspan5753"
+           sodipodi:role="line">PROFILE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+         x="132.71834"
+         y="1601.813"
+         id="text5759"><tspan
+           sodipodi:role="line"
+           id="tspan5757"
+           x="132.71834"
+           y="1601.813"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:1.29750001px;fill:#1a9788;fill-opacity:1;stroke-width:0.50137633">WORK EXPERIENCES</tspan></text>
+      <text
+         id="text5763"
+         y="1710.7872"
+         x="132.71834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:1.29750001px;fill:#1a9788;fill-opacity:1;stroke-width:0.50137633"
+           y="1710.7872"
+           x="132.71834"
+           id="tspan5761"
+           sodipodi:role="line">EDUCATION</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5765"
+         d="M 115.5405,1493.3803 H 337.32623"
+         style="fill:none;stroke:#b2b9bd;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:#b2b9bd;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 115.5405,1608.6344 H 337.32623"
+         id="path5767"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5769"
+         d="M 115.5405,1717.8888 H 337.32623"
+         style="fill:none;stroke:#b2b9bd;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5775"
+         transform="translate(0,681.91187)">
+        <circle
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1a9788;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5771"
+           cx="118.26266"
+           cy="796.37415"
+           r="2.8173788" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 114.59869,803.47366 c -0.20339,0.0939 0.52219,-4.39764 3.74072,-4.26158 2.94315,0.12442 3.961,4.39283 3.64601,4.26158"
+           id="path5773"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csc" />
+      </g>
+      <g
+         id="g5785"
+         transform="translate(0,681.11864)">
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 115.42158,915.09729 h 7.74188 v 5.25595 h -7.67086 z"
+           id="path5777"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 115.42158,915.09729 1.27419,2.20697 h 5.07083 l 1.39686,-2.20697"
+           id="path5779"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 118.54849,917.65424 v 0.92334 h 1.60994 v -1.16009 h -1.65729 z"
+           id="path5781"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 117.27755,914.88421 v -1.68096 h 4.02483 v 1.72831"
+           id="path5783"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+      </g>
+      <g
+         id="g5793"
+         transform="translate(0,683.82474)">
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 114.26148,1022.4104 4.78428,-2.7623 4.87508,2.8147 -4.77039,2.7541 z"
+           id="path5787"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.25022,1023.8309 v 3.0068 h 6.03724 v -3.1725"
+           id="path5789"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 123.92084,1022.4628 v 3.783 h 0.0712 v 0"
+           id="path5791"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+         x="132.71834"
+         y="1800.4932"
+         id="text5797"><tspan
+           sodipodi:role="line"
+           id="tspan5795"
+           x="132.71834"
+           y="1800.4932"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:1.29750001px;fill:#1a9788;fill-opacity:1;stroke-width:0.50137633">RECOGNITIONS</tspan></text>
+      <path
+         style="fill:none;stroke:#b2b9bd;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 115.5405,1808.5588 H 337.32623"
+         id="path5799"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g5809"
+         transform="translate(0,683.40873)">
+        <circle
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1a9788;stroke-width:0.46771654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5801"
+           cx="120.69677"
+           cy="1111.2084"
+           r="0.55245537" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.46771654;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 119.32399,1113.2506 -1.84152,4.0514 1.3058,-1.3393 0.16741,1.8415 1.47321,-4.2187 z"
+           id="path5803"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5805"
+           d="m 122.37427,1113.2506 1.84153,4.0514 -1.30581,-1.3393 -0.16741,1.8415 -1.47321,-4.2187 z"
+           style="fill:none;stroke:#1a9788;stroke-width:0.46771654;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#1a9788;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5807"
+           cx="120.69677"
+           cy="1111.2084"
+           r="2.3772323" />
+      </g>
+      <text
+         id="text5813"
+         y="1962.5897"
+         x="132.71834"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#1a9788;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:1.29750001px;fill:#1a9788;fill-opacity:1;stroke-width:0.50137633"
+           y="1962.5897"
+           x="132.71834"
+           id="tspan5811"
+           sodipodi:role="line">TOOLS</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5815"
+         d="M 115.5405,1970.9612 H 337.32623"
+         style="fill:none;stroke:#b2b9bd;stroke-width:0.75118107;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g5821"
+         transform="translate(0,683.48518)">
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.20287,1271.8755 h 7.95496 v 4.7824 h -7.95833 z"
+           id="path5817"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;stroke:#1a9788;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 116.98024,1277.0116 -0.9375,1.49 h 8.45424 l -0.82259,-1.4751 z"
+           id="path5819"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <text
+         id="text5841"
+         y="1508.5265"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan6386"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1508.5265"
+           x="114.15707"
+           sodipodi:role="line">An advanced student of Computer Science and Multimedia Technology of</tspan><tspan
+           id="tspan6396"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1517.2823"
+           x="114.15707"
+           sodipodi:role="line">the University of Costa Rica, an active participant in the Free Software </tspan><tspan
+           id="tspan6404"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1526.0382"
+           x="114.15707"
+           sodipodi:role="line">Community since 2016 and granted a computer security scholarship from </tspan><tspan
+           id="tspan6388"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1534.7941"
+           x="114.15707"
+           sodipodi:role="line">the  Organization of American States. Adaptation to various work modalities </tspan><tspan
+           id="tspan6410"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1543.5499"
+           x="114.15707"
+           sodipodi:role="line">and  open to acquire new knowledge. Selected nationally by the OAS and the </tspan><tspan
+           id="tspan6390"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1552.3058"
+           x="114.15707"
+           sodipodi:role="line">MICITT to compete internationally in Capture The Flag and symposiums</tspan><tspan
+           id="tspan6418"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1561.0616"
+           x="114.15707"
+           sodipodi:role="line">related to computer security. Capacity and availability to work as a team in </tspan><tspan
+           id="tspan6430"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1569.8175"
+           x="114.15707"
+           sodipodi:role="line">both conformation and leadership. </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="114.15707"
+         y="1623.6427"
+         id="text5849"><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1623.6427"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5845">DEVELOPMENT AND WEB DESIGN</tspan><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1632.3986"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5847">Bandogo Soluciones | 2017 - 2018 </tspan></text>
+      <text
+         id="text5855"
+         y="1652.5712"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5851"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1652.5712"
+           x="114.15707"
+           sodipodi:role="line">CMS DEVELOPMENT</tspan><tspan
+           id="tspan5853"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1661.327"
+           x="114.15707"
+           sodipodi:role="line">University of Costa Rica | 2019 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="114.15707"
+         y="1734.5515"
+         id="text5861"><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1734.5515"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5857">HIGH SCHOOL EDUCATION</tspan><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1743.3074"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5859">Costa Rican Scientific College | 2015 </tspan></text>
+      <text
+         id="text5867"
+         y="1876.8721"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5863"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1876.8721"
+           x="114.15707"
+           sodipodi:role="line">SCRUM CERTIFICATION FOR WEB DEVELOPER</tspan><tspan
+           id="tspan5865"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1885.6279"
+           x="114.15707"
+           sodipodi:role="line">Scrum Institute | 2018 </tspan></text>
+      <text
+         id="text5873"
+         y="1761.0693"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5869"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1761.0693"
+           x="114.15707"
+           sodipodi:role="line">ADVANCED STUDENT COMPUTER SCIENCE AND MULTIMEDIA </tspan><tspan
+           id="tspan6444"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1769.8252"
+           x="114.15707"
+           sodipodi:role="line">TECHNOLOGY</tspan><tspan
+           id="tspan5871"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1778.5811"
+           x="114.15707"
+           sodipodi:role="line">Universidad of Costa Rica | 2016 - present </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="114.15707"
+         y="1824.9077"
+         id="text5879"><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1824.9077"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5875">PROFESSIONAL TRAJECTORY IN CYBERSECURITY</tspan><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1833.6636"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5877">Organization of American States | 2018 </tspan></text>
+      <text
+         id="text5885"
+         y="1850.6666"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5881"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1850.6666"
+           x="114.15707"
+           sodipodi:role="line">IBERO-AMERICAN CYBERSECURITY CHALLENGE</tspan><tspan
+           id="tspan5883"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1859.4225"
+           x="114.15707"
+           sodipodi:role="line">Organization of American States | 2018 </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="114.15707"
+         y="1903.3899"
+         id="text5891"><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1903.3899"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5887">SPEAKER - II CENTRAL AMERICAN ENCOUNTER OF FREE SOFTWARE</tspan><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1912.1458"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5889">Technological University of Panama | 2017 </tspan></text>
+      <text
+         id="text5897"
+         y="1929.1488"
+         x="114.15707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5893"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1929.1488"
+           x="114.15707"
+           sodipodi:role="line">SPEAKER  - MOZILLA ACTIVATE 2017</tspan><tspan
+           id="tspan5895"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="1937.9047"
+           x="114.15707"
+           sodipodi:role="line">Universidad of Costa Rica | 2017 </tspan></text>
+      <g
+         transform="translate(7.7190937,1485.2326)"
+         id="g5905">
+        <text
+           id="text5901"
+           y="545.48212"
+           x="115.27724"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+           xml:space="preserve"><tspan
+             id="tspan5899"
+             style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+             y="545.48212"
+             x="115.27724"
+             sodipodi:role="line">Inkscape, Gimp, Adobe Ilustrador, Adobe Photoshop, Blender. </tspan></text>
+        <circle
+           style="opacity:1;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.46771654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle5903"
+           cx="108.70345"
+           cy="543.46106"
+           r="1.0714287" />
+      </g>
+      <text
+         id="text5909"
+         y="2017.472"
+         x="122.99633"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         xml:space="preserve"><tspan
+           id="tspan5907"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           y="2017.472"
+           x="122.99633"
+           sodipodi:role="line">SQL Server, Firebase, MongoDB, MySQL</tspan></text>
+      <circle
+         style="opacity:1;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.46771654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle5911"
+         cx="116.42255"
+         cy="2016.7936"
+         r="1.0714287" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="122.99633"
+         y="1986.5845"
+         id="text5919"><tspan
+           id="tspan5913"
+           sodipodi:role="line"
+           x="122.99633"
+           y="1986.5845"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633">HTML5, CSS3, JavaScript, Bootstrap, Sass, Less, Materialize, CSS Grid, </tspan><tspan
+           id="tspan5915"
+           sodipodi:role="line"
+           x="122.99633"
+           y="1995.3403"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633">Java Spring, ReactJS, Angular, Ionic, Wordpress,  Drupal, Java - Android, </tspan><tspan
+           id="tspan5917"
+           sodipodi:role="line"
+           x="122.99633"
+           y="2004.0962"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633">PHP, Laravel, NodeJS, npm, Python, C, C#, ASP.NET.</tspan></text>
+      <circle
+         r="1.0714287"
+         cy="1985.7693"
+         cx="116.42255"
+         id="circle5921"
+         style="opacity:1;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.46771654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73527575px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.34837633"
+         x="114.15707"
+         y="1679.0876"
+         id="text5927"><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1679.0876"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.63282776px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5923">ASSISTANT IN ATIC,  CALCULUS 1 AND CAREER COORDINATION  </tspan><tspan
+           sodipodi:role="line"
+           x="114.15707"
+           y="1687.8435"
+           style="font-size:6.63282776px;line-height:1.29999995;word-spacing:-0.0075px;fill:#363934;fill-opacity:1;stroke-width:0.34837633"
+           id="tspan5925">Universidad de Costa Rica | 2017 - actualidad </tspan></text>
+      <g
+         id="g6630"
+         transform="translate(0,9.2323709)">
+        <text
+           id="text5933"
+           y="2019.21"
+           x="-56.442024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             id="tspan5931"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="2019.21"
+             x="-56.442024"
+             sodipodi:role="line">Intermediate English</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.80702019px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.97277689"
+           x="1.2420106"
+           y="1480.184"
+           id="text5939"><tspan
+             sodipodi:role="line"
+             id="tspan5935"
+             x="2.5007253"
+             y="1480.184"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.29999995;font-family:Oswald;-inkscape-font-specification:Oswald;text-align:center;letter-spacing:2.51742649px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.97277689">ANDY ROJAS</tspan><tspan
+             sodipodi:role="line"
+             x="2.5007248"
+             y="1504.6331"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.29999995;font-family:Oswald;-inkscape-font-specification:Oswald;text-align:center;letter-spacing:2.51742649px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.97277689"
+             id="tspan5937">CÓRDOBA</tspan></text>
+        <text
+           id="text5947"
+           y="1526.0809"
+           x="1.2670479"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-size:7.97146797px;line-height:1.29999995;text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1526.0809"
+             x="3.0998302"
+             sodipodi:role="line"
+             id="tspan5943">Computer Science and </tspan><tspan
+             id="tspan6132"
+             style="font-size:7.97146797px;line-height:1.29999995;text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1536.6039"
+             x="1.6757989"
+             sodipodi:role="line">Multimedia Technology student</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1547.1268"
+             x="1.6757967"
+             sodipodi:role="line"
+             id="tspan5945">University of Costa Rica</tspan></text>
+        <g
+           id="g5985"
+           transform="translate(0,590.91072)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5949"
+             d="m -60.542706,985.06999 c -0.0124,-0.0124 -0.14313,-0.0343 -0.29049,-0.0486 -0.52551,-0.051 -0.62667,-0.0655 -0.65722,-0.0948 -0.017,-0.0163 -0.094,-0.0296 -0.17103,-0.0296 -0.077,0 -0.14009,-0.0144 -0.14009,-0.0319 0,-0.0176 -0.0403,-0.0409 -0.0896,-0.0519 -0.12875,-0.0287 -0.6006,-0.17944 -0.6674,-0.21328 -0.0311,-0.0158 -0.0852,-0.0287 -0.12025,-0.0287 -0.035,0 -0.0727,-0.0147 -0.0838,-0.0326 -0.0111,-0.0179 -0.0506,-0.0326 -0.0879,-0.0326 -0.0373,0 -0.0841,-0.0192 -0.10395,-0.0427 -0.0199,-0.0235 -0.19743,-0.11457 -0.39453,-0.20246 -0.1971,-0.0879 -0.36715,-0.17225 -0.37789,-0.18751 -0.0107,-0.0152 -0.0547,-0.0465 -0.0977,-0.0694 -0.27034,-0.14388 -0.54466,-0.3272 -0.78715,-0.52602 -0.0316,-0.0259 -0.0719,-0.0471 -0.0896,-0.0471 -0.0177,0 -0.0322,-0.0147 -0.0322,-0.0326 0,-0.0179 -0.0293,-0.0326 -0.0652,-0.0326 -0.0358,0 -0.0654,-0.011 -0.0657,-0.0244 -9e-4,-0.0415 -0.17278,-0.21854 -0.29268,-0.30137 -0.0627,-0.0433 -0.13091,-0.10135 -0.15155,-0.12896 -0.0206,-0.0276 -0.19085,-0.2086 -0.37825,-0.4022 -0.18739,-0.19361 -0.35844,-0.38513 -0.3801,-0.42561 -0.0217,-0.0405 -0.12623,-0.1826 -0.23236,-0.31584 -0.10614,-0.13323 -0.19308,-0.26057 -0.19321,-0.28297 -1.3e-4,-0.0224 -0.0114,-0.0407 -0.0251,-0.0407 -0.0137,0 -0.0488,-0.055 -0.078,-0.12217 -0.0292,-0.0672 -0.0913,-0.16325 -0.138,-0.21344 -0.0467,-0.0502 -0.0849,-0.10311 -0.0849,-0.1176 0,-0.0145 -0.0425,-0.11268 -0.0945,-0.21822 -0.052,-0.10554 -0.11767,-0.24484 -0.146,-0.30957 -0.0283,-0.0647 -0.0738,-0.13615 -0.10098,-0.15873 -0.0272,-0.0226 -0.0495,-0.073 -0.0495,-0.112 0,-0.039 -0.012,-0.0849 -0.0267,-0.1019 -0.0147,-0.017 -0.0602,-0.14089 -0.10109,-0.27528 -0.0409,-0.13438 -0.0875,-0.26979 -0.1036,-0.3009 -0.0161,-0.0311 -0.0292,-0.0828 -0.0292,-0.11493 0,-0.0321 -0.02,-0.0873 -0.0444,-0.12259 -0.0448,-0.0649 -0.14116,-0.52139 -0.23022,-1.09047 -0.0266,-0.17022 -0.0511,-0.55139 -0.0543,-0.84704 -0.005,-0.50077 -8.3e-4,-0.54756 0.0682,-0.68412 0.11162,-0.22092 0.88213,-0.95829 1.05485,-1.00948 0.0739,-0.0219 0.16797,-0.053 0.20912,-0.069 0.0956,-0.0373 0.37198,-0.0377 0.46932,-6.8e-4 0.0412,0.0156 0.13347,0.0469 0.20514,0.0696 0.116,0.0367 0.212,0.10527 0.46418,0.33161 0.0904,0.0811 0.254,0.41797 0.29785,0.61314 0.0179,0.0798 0.0481,0.15025 0.0669,0.15655 0.0189,0.006 0.0344,0.068 0.0344,0.13713 0,0.0691 0.0147,0.13473 0.0326,0.1458 0.0179,0.0111 0.0326,0.0697 0.0326,0.13032 0,0.0606 0.0131,0.11829 0.0291,0.12819 0.0668,0.0413 0.12976,0.9236 0.0743,1.04262 -0.0172,0.0369 -0.0541,0.11847 -0.082,0.18117 -0.0279,0.0627 -0.18275,0.24608 -0.34415,0.40746 l -0.29343,0.29343 0.0358,0.14637 c 0.0197,0.0805 0.0557,0.16953 0.08,0.19781 0.0243,0.0283 0.0442,0.0824 0.0442,0.12024 0,0.0379 0.0147,0.0779 0.0326,0.089 0.0179,0.0111 0.0326,0.0434 0.0326,0.0718 0,0.0615 0.21096,0.50814 0.26897,0.56949 0.0223,0.0235 0.0621,0.0868 0.0885,0.14058 0.0826,0.16815 0.2844,0.45396 0.35592,0.504 0.0377,0.0264 0.0685,0.0657 0.0685,0.0873 0,0.0418 0.57905,0.63033 0.62018,0.63033 0.0133,0 0.0808,0.0512 0.14995,0.11377 0.0692,0.0626 0.22839,0.17477 0.35381,0.2493 0.12543,0.0745 0.27936,0.16653 0.34207,0.20447 0.17248,0.10429 0.58901,0.27949 0.66453,0.27949 0.0203,0 0.0916,0.0293 0.15843,0.0651 0.21518,0.11532 0.24828,0.0991 0.65316,-0.3207 0.16571,-0.17179 0.35599,-0.27267 0.65644,-0.34803 0.24067,-0.0603 0.25299,-0.0591 0.7343,0.0721 0.17807,0.0486 0.22821,0.0613 0.6027,0.15343 0.3142,0.0773 0.57459,0.1836 0.74929,0.30591 0.17679,0.12375 0.4398,0.45825 0.4398,0.55932 0,0.0346 0.0147,0.0719 0.0326,0.0829 0.0182,0.0112 0.0326,0.16258 0.0326,0.34207 0,0.17948 -0.0144,0.33084 -0.0326,0.34206 -0.0179,0.0111 -0.0326,0.0497 -0.0326,0.0857 0,0.036 -0.0696,0.13896 -0.15474,0.22866 -0.0851,0.0897 -0.17457,0.19491 -0.1988,0.23382 -0.0242,0.039 -0.10077,0.11066 -0.17009,0.15939 -0.0693,0.0487 -0.15945,0.13983 -0.20029,0.20246 -0.0423,0.0648 -0.13736,0.14392 -0.22084,0.18372 -0.0806,0.0384 -0.17206,0.0829 -0.20317,0.0989 -0.0661,0.0339 -1.0132,0.0398 -1.04651,0.007 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.02031635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             transform="matrix(0.30182246,0,0,0.30182246,-28.195786,946.42713)"
+             id="g5955">
+            <path
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44544432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 33.954281,326.01328 c -8.246046,-6.49015 -14.886295,-12.19609 -14.886295,-12.79172 0,-0.97174 40.180827,-0.41775 40.505875,0.55846 0.146956,0.44136 -3.804871,4.05743 -8.78184,8.03572 -6.535462,5.22405 -9.59509,7.23325 -11.014877,7.23325 -1.231544,0 -3.406552,-1.13392 -5.822863,-3.03571 z"
+               id="path5951"
+               inkscape:connector-curvature="0"
+               transform="matrix(0.75000002,0,0,0.75000002,-146.64288,-64.321587)" />
+            <path
+               style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.44544432;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 16.567986,348.37374 c -0.785714,-0.32159 -1.998678,-1.21886 -2.695475,-1.99393 -1.13011,-1.25707 -1.245797,-2.78939 -1.071429,-14.19145 0.192493,-12.58722 0.219636,-12.78566 1.779178,-13.0074 1.10279,-0.1568 3.185913,1.14461 6.859972,4.28571 15.440355,13.20058 15.76066,13.42844 18.884815,13.43476 1.886625,0.004 3.317982,-0.91023 7.542786,-4.81672 9.494659,-8.7793 15.28652,-13.16263 17.059968,-12.91116 1.632079,0.23144 1.64115,0.29544 1.835394,12.94946 l 0.195209,12.71688 -2.104549,2.10455 -2.10455,2.10455 -22.376374,-0.0453 c -12.307006,-0.0249 -23.019231,-0.3084 -23.804945,-0.62998 z"
+               id="path5953"
+               inkscape:connector-curvature="0"
+               transform="matrix(0.75000002,0,0,0.75000002,-146.64288,-64.321587)" />
+          </g>
+          <circle
+             r="2.2728434"
+             cy="1024.1208"
+             cx="-63.493782"
+             id="circle5957"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.46771654;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.01338577;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle5959"
+             cx="-63.399086"
+             cy="1024.1208"
+             r="4.9244938" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5961"
+             d="m -63.446446,1019.3385 c -0.0473,-0.1894 0,-1.9888 0,-1.9888"
+             style="fill:none;stroke:#ffffff;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -63.446446,1030.7027 c -0.0473,-0.1894 0,-1.9888 0,-1.9888"
+             id="path5963"
+             inkscape:connector-curvature="0" />
+          <path
+             style="fill:none;stroke:#ffffff;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -58.728966,1024.0221 c 0.18884,-0.05 1.9886,-0.023 1.9886,-0.023"
+             id="path5965"
+             inkscape:connector-curvature="0" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5967"
+             d="m -70.092416,1024.1548 c 0.18885,-0.05 1.98861,-0.023 1.98861,-0.023"
+             style="fill:none;stroke:#ffffff;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+          <text
+             id="text5971"
+             y="983.4917"
+             x="-13.866894"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+               y="983.4917"
+               x="-13.709395"
+               sodipodi:role="line"
+               id="tspan5969">+506 6196 1583</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+             x="7.9634905"
+             y="1004.9203"
+             id="text5975"><tspan
+               id="tspan5973"
+               sodipodi:role="line"
+               x="8.1209908"
+               y="1004.9203"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">andyrojasc@protonmail.com</tspan></text>
+          <text
+             id="text5979"
+             y="1026.9983"
+             x="-0.97288132"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+               y="1026.9983"
+               x="-0.81538111"
+               sodipodi:role="line"
+               id="tspan5977">Puntarenas - Costa Rica</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:middle;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+             x="-0.97288132"
+             y="1026.9983"
+             id="text5983"><tspan
+               id="tspan5981"
+               sodipodi:role="line"
+               x="-0.81538111"
+               y="1026.9983"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Puntarenas - Costa Rica</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+           x="-60.965981"
+           y="1648.929"
+           id="text5989"><tspan
+             sodipodi:role="line"
+             id="tspan5987"
+             x="-60.965981"
+             y="1648.929"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633">COMMUNITY INVOLVEMENT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-56.669502"
+           y="1663.0778"
+           id="text5995"><tspan
+             id="tspan5991"
+             sodipodi:role="line"
+             x="-56.669502"
+             y="1663.0778"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Free Software Central America</tspan><tspan
+             sodipodi:role="line"
+             x="-56.669502"
+             y="1673.6007"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan5993">Speaker | 2016 - actualidad </tspan></text>
+        <text
+           id="text6001"
+           y="1685.578"
+           x="-56.669502"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1685.578"
+             x="-56.669502"
+             sodipodi:role="line"
+             id="tspan5997">The community of JavaScript CR</tspan><tspan
+             id="tspan5999"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1696.101"
+             x="-56.669502"
+             sodipodi:role="line">Member | 2018 </tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-56.669502"
+           y="1707.944"
+           id="text6007"><tspan
+             id="tspan6003"
+             sodipodi:role="line"
+             x="-56.669502"
+             y="1707.944"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Wordpress Puntarenas</tspan><tspan
+             sodipodi:role="line"
+             x="-56.669502"
+             y="1718.4669"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6005">Member | 2018 - 2019 </tspan></text>
+        <text
+           id="text6013"
+           y="1730.9797"
+           x="-56.669502"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1730.9797"
+             x="-56.669502"
+             sodipodi:role="line"
+             id="tspan6009">ExpoMedia ITM-UCR</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1741.5027"
+             x="-56.669502"
+             sodipodi:role="line"
+             id="tspan6011">2017 - present</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6015"
+           cx="-63.859047"
+           cy="1660.1886"
+           r="1.2723215" />
+        <circle
+           r="1.2723215"
+           cy="1682.7556"
+           cx="-63.859047"
+           id="circle6017"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6019"
+           cx="-63.859047"
+           cy="1705.5234"
+           r="1.2723215" />
+        <circle
+           r="1.2723215"
+           cy="1727.8896"
+           cx="-63.859047"
+           id="circle6021"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6025"
+           y="1769.0389"
+           x="-61.528496"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633"
+             y="1769.0389"
+             x="-61.528496"
+             id="tspan6023"
+             sodipodi:role="line">SKILLS</tspan></text>
+        <text
+           id="text6030"
+           y="1783.1877"
+           x="-57.192032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             id="tspan6028"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1783.1877"
+             x="-57.192032"
+             sodipodi:role="line">Web Development</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-57.192032"
+           y="1795.2563"
+           id="text6034"><tspan
+             sodipodi:role="line"
+             x="-57.192032"
+             y="1795.2563"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6032">Mobile Development</tspan></text>
+        <text
+           id="text6040"
+           y="1820.3492"
+           x="-57.192032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1820.3492"
+             x="-57.192032"
+             sodipodi:role="line"
+             id="tspan6038">Knowledge of Cybersecurity</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-57.192032"
+           y="1846.1354"
+           id="text6044"><tspan
+             id="tspan6042"
+             sodipodi:role="line"
+             x="-57.192032"
+             y="1846.1354"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Knowledge of SEO</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6046"
+           cx="-64.192162"
+           cy="1780.9191"
+           r="1.2723215" />
+        <circle
+           r="1.2723215"
+           cy="1792.2301"
+           cx="-64.192162"
+           id="circle6048"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6050"
+           cx="-64.192162"
+           cy="1817.797"
+           r="1.2723215" />
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6052"
+           cx="-64.192162"
+           cy="1843.4253"
+           r="1.2723215" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+           x="-61.528481"
+           y="1909.1879"
+           id="text6056"><tspan
+             sodipodi:role="line"
+             id="tspan6054"
+             x="-61.528481"
+             y="1909.1879"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633">PERSONALITY TRAITS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-56.817024"
+           y="1923.1195"
+           id="text6060"><tspan
+             sodipodi:role="line"
+             x="-56.817024"
+             y="1923.1195"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6058">Punctual</tspan></text>
+        <circle
+           r="1.2723215"
+           cy="1920.8508"
+           cx="-63.817146"
+           id="circle6062"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-56.817024"
+           y="1935.2601"
+           id="text6066"><tspan
+             sodipodi:role="line"
+             x="-56.817024"
+             y="1935.2601"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6064">Responsible</tspan></text>
+        <circle
+           r="1.2723215"
+           cy="1932.9915"
+           cx="-63.817146"
+           id="circle6068"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6072"
+           y="1957.6356"
+           x="-56.817024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1957.6356"
+             x="-56.817024"
+             sodipodi:role="line"
+             id="tspan6070">Ease at communication</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6074"
+           cx="-63.817146"
+           cy="1955.3671"
+           r="1.2723215" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-56.817024"
+           y="1968.4009"
+           id="text6078"><tspan
+             sodipodi:role="line"
+             x="-56.817024"
+             y="1968.4009"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6076">Motivated to solve problems</tspan></text>
+        <circle
+           r="1.2723215"
+           cy="1966.1322"
+           cx="-63.817146"
+           id="circle6080"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6084"
+           y="1858.7916"
+           x="-57.192032"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1858.7916"
+             x="-57.192032"
+             sodipodi:role="line"
+             id="tspan6082">Graphic Design</tspan></text>
+        <circle
+           r="1.2723215"
+           cy="1855.9409"
+           cx="-64.192162"
+           id="circle6086"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-57.192032"
+           y="1870.384"
+           id="text6092"><tspan
+             sodipodi:role="line"
+             x="-57.192032"
+             y="1870.384"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             id="tspan6090">Use of Agile Software </tspan><tspan
+             id="tspan6337"
+             sodipodi:role="line"
+             x="-57.192032"
+             y="1880.907"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Developments</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6094"
+           cx="-64.192162"
+           cy="1867.5333"
+           r="1.2723215" />
+        <text
+           id="text6098"
+           y="1946.4646"
+           x="-56.817024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             id="tspan6096"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="1946.4646"
+             x="-56.817024"
+             sodipodi:role="line">Able to work in a team</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6100"
+           cx="-63.817146"
+           cy="1944.1959"
+           r="1.2723215" />
+        <g
+           id="g6108"
+           transform="translate(-10.5,617.74814)">
+          <text
+             id="text6104"
+             y="1189.8347"
+             x="-46.692032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+             xml:space="preserve"><tspan
+               id="tspan6102"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+               y="1189.8347"
+               x="-46.692032"
+               sodipodi:role="line">CMS Management</tspan></text>
+          <circle
+             style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle6106"
+             cx="-53.692162"
+             cy="1187.566"
+             r="1.2723215" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           x="-57.192032"
+           y="1832.4338"
+           id="text6114"><tspan
+             id="tspan6112"
+             sodipodi:role="line"
+             x="-57.192032"
+             y="1832.4338"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Knowledge of Databases</tspan></text>
+        <circle
+           r="1.2723215"
+           cy="1829.8816"
+           cx="-64.192162"
+           id="circle6116"
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text6120"
+           y="1994.3662"
+           x="-61.528481"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.69327641px;line-height:1.25;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.50137633"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Oswald;-inkscape-font-specification:Oswald;letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.50137633"
+             y="1994.3662"
+             x="-61.528481"
+             id="tspan6118"
+             sodipodi:role="line">LANGUAGES</tspan></text>
+        <text
+           id="text6124"
+           y="2008.2979"
+           x="-56.442024"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.09459209px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.64618629px;word-spacing:-0.00901365px;text-anchor:start;fill:#363934;fill-opacity:1;stroke:none;stroke-width:0.41868582"
+           xml:space="preserve"><tspan
+             id="tspan6122"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
+             y="2008.2979"
+             x="-56.442024"
+             sodipodi:role="line">Native Spanish</tspan></text>
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6126"
+           cx="-63.442146"
+           cy="2006.0292"
+           r="1.2723215" />
+        <circle
+           style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.55541337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle6128"
+           cx="-63.442146"
+           cy="2018.1698"
+           r="1.2723215" />
+      </g>
     </g>
   </g>
 </svg>
