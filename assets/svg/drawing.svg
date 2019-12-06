@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="158.18973mm"
-   height="217.95013mm"
-   viewBox="0 0 158.18973 217.95013"
+   width="165.06825mm"
+   height="237.87558mm"
+   viewBox="0 0 165.06825 237.87558"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="drawing.svg">
   <defs
      id="defs2">
@@ -835,122 +835,132 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="129.61719"
-     inkscape:cy="817.58873"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="6.9295395"
+     inkscape:cy="671.66535"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4493"
+     inkscape:current-layer="g2287"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="67.440019,640.29716"
+       position="-153.15562,549.68494"
        orientation="0,1"
        id="guide6234"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="65.55014,636.13723"
+       position="-155.0455,545.52501"
        orientation="0,1"
        id="guide6236"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="61.959366,626.97131"
+       position="-158.63628,536.35909"
        orientation="0,1"
        id="guide6240"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="23.405796,717.49661"
+       position="-197.18985,626.88439"
        orientation="0,1"
        id="guide6793"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="54.938297,447.4858"
+       position="-165.65735,356.87358"
        orientation="0,1"
        id="guide5713"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="10.082136,417.93157"
+       position="-210.51351,327.31935"
        orientation="0,1"
        id="guide5766"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="6.840992,411.71387"
+       position="-213.75465,321.10165"
        orientation="0,1"
        id="guide5768"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="7.02053,392.96524"
+       position="-213.57511,302.35302"
        orientation="0,1"
        id="guide5772"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-1.3970879,386.74752"
+       position="-221.99273,296.1353"
        orientation="0,1"
        id="guide5774"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="28.73526,311.70137"
+       position="-191.86038,221.08915"
        orientation="0,1"
        id="guide5806"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-1.3970879,305.48365"
+       position="-221.99273,214.87143"
        orientation="0,1"
        id="guide5808"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="14.183177,278.76074"
+       position="-206.41247,188.14852"
        orientation="0,1"
        id="guide5820"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-1.3970879,272.54302"
+       position="-221.99273,181.9308"
        orientation="0,1"
        id="guide5822"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="118.42901,408.34043"
+       position="-102.16663,317.72821"
        orientation="0,1"
        id="guide5824"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="27.875364,403.64407"
+       position="-192.72028,313.03185"
        orientation="0,1"
        id="guide5826"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="101.76026,413.76439"
+       position="-118.83538,323.15217"
        orientation="0,1"
        id="guide5830"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.2461667e-008,458.92133"
+       position="-220.59564,368.30911"
        orientation="0,1"
        id="guide5834"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="6.553688,406.91224"
+       position="-214.04195,316.30002"
        orientation="1,0"
        id="guide6262"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="7.907593,390.00976"
+       position="-212.68805,299.39754"
        orientation="1,0"
        id="guide6264"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="145.87953,193.03574"
+       position="-74.716112,102.42352"
        orientation="1,0"
        id="guide6339"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="66.530359,-4.0912789e-007"
+       orientation="0,1"
+       id="guide2966"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="66.530359,237.87558"
+       orientation="0,1"
+       id="guide2968"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -969,7 +979,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-22.329322,-531.77418)">
+     transform="translate(-242.92497,-421.23651)">
     <g
        transform="matrix(0.35277777,0,0,0.35277777,51.732347,22.691226)"
        inkscape:label="CV Leandro Bello"
@@ -4714,12 +4724,12 @@
            sodipodi:role="line">Estudiante de Informática y</tspan><tspan
            style="font-size:7.97146845px;line-height:1.29999995;text-align:center;letter-spacing:0.8175px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="186.11435"
-           x="-6.0432959"
+           x="-6.0432954"
            sodipodi:role="line"
            id="tspan6534">Tecnología Multimedia</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.8175px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="196.63733"
-           x="-6.0432954"
+           x="-6.043293"
            sodipodi:role="line"
            id="tspan6536">Universidad de Costa Rica</tspan></text>
       <text
@@ -4741,7 +4751,7 @@
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146845px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="248.7164"
-           x="0.40188506"
+           x="0.40188316"
            sodipodi:role="line"
            id="tspan6551">andyrojasc@protonmail.com</tspan></text>
       <text
@@ -5713,12 +5723,12 @@
            sodipodi:role="line">Estudiante de Informática y</tspan><tspan
            style="font-size:7.97146797px;line-height:1.29999995;text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="853.53876"
-           x="1.675799"
+           x="1.6757995"
            sodipodi:role="line"
            id="tspan6534-0">Tecnología Multimedia</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
            y="864.06177"
-           x="1.6758"
+           x="1.6757984"
            sodipodi:role="line"
            id="tspan6536-7">Universidad de Costa Rica</tspan></text>
       <g
@@ -5785,7 +5795,7 @@
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
              y="983.4917"
-             x="-13.709395"
+             x="-13.709394"
              sodipodi:role="line"
              id="tspan6542-6">+506 6196 1583</tspan></text>
         <text
@@ -5796,7 +5806,7 @@
            id="text6553-7"><tspan
              id="tspan6551-6"
              sodipodi:role="line"
-             x="8.1209908"
+             x="8.1209927"
              y="1004.9203"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">andyrojasc@protonmail.com</tspan></text>
         <text
@@ -5807,7 +5817,7 @@
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
              y="1026.9983"
-             x="-0.81538111"
+             x="-0.81538147"
              sodipodi:role="line"
              id="tspan6555-8">Puntarenas - Costa Rica</tspan></text>
         <text
@@ -5818,7 +5828,7 @@
            id="text6563-7"><tspan
              id="tspan6561-8"
              sodipodi:role="line"
-             x="-0.81538111"
+             x="-0.81538147"
              y="1026.9983"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Puntarenas - Costa Rica</tspan></text>
       </g>
@@ -6730,7 +6740,7 @@
            xml:space="preserve"><tspan
              style="font-size:7.97146797px;line-height:1.29999995;text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
              y="1526.0809"
-             x="3.0998302"
+             x="2.8507195"
              sodipodi:role="line"
              id="tspan5943">Computer Science and </tspan><tspan
              id="tspan6132"
@@ -6740,7 +6750,7 @@
              sodipodi:role="line">Multimedia Technology student</tspan><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.81749994px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
              y="1547.1268"
-             x="1.6757967"
+             x="1.6757994"
              sodipodi:role="line"
              id="tspan5945">University of Costa Rica</tspan></text>
         <g
@@ -6807,7 +6817,7 @@
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
                y="983.4917"
-               x="-13.709395"
+               x="-13.709394"
                sodipodi:role="line"
                id="tspan5969">+506 6196 1583</tspan></text>
           <text
@@ -6818,7 +6828,7 @@
              id="text5975"><tspan
                id="tspan5973"
                sodipodi:role="line"
-               x="8.1209908"
+               x="8.1209927"
                y="1004.9203"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">andyrojasc@protonmail.com</tspan></text>
           <text
@@ -6829,7 +6839,7 @@
              xml:space="preserve"><tspan
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582"
                y="1026.9983"
-               x="-0.81538111"
+               x="-0.81538147"
                sodipodi:role="line"
                id="tspan5977">Puntarenas - Costa Rica</tspan></text>
           <text
@@ -6840,7 +6850,7 @@
              id="text5983"><tspan
                id="tspan5981"
                sodipodi:role="line"
-               x="-0.81538111"
+               x="-0.81538147"
                y="1026.9983"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.97146797px;line-height:1.29999995;font-family:Lato;-inkscape-font-specification:'Lato Bold';text-align:center;letter-spacing:0.315px;word-spacing:-0.00901365px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.41868582">Puntarenas - Costa Rica</tspan></text>
         </g>
@@ -7251,6 +7261,1086 @@
          preserveAspectRatio="none"
          height="390.75"
          width="567.75" />
+      <g
+         transform="translate(561.46334,1148.8247)"
+         inkscape:label="CV-Español"
+         id="g2285">
+        <g
+           id="g2287">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2289"
+             style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 0,0 H 449 V 648 H 0 Z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2291"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+             d="M -19.5,-19.090008 H 448.41001 V 655.203 H -19.5 Z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2293"
+             style="fill:#1a9788;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M -19.621,-19.09 H 169.09 V 655.203 H -19.621 Z" />
+          <text
+             id="text2299"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#1a9788;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(216.06549,33.331176)">
+            <tspan
+               id="tspan2295"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.9516716 11.186041 17.525442 22.604719 26.30755">PERFIL</tspan>
+            <tspan
+               id="tspan2297"
+               sodipodi:role="line"
+               y="117.45996"
+               x="0 5.2343693 11.205427 17.166792 22.401161 28.730869 32.433701 37.668072 44.075325 50.375954 54.078785 60.146778 66.020905 69.539558 74.677002 80.744987 87.113472 93.637047 99.976448 106.04444 111.18188 116.41624">EXPERIENCIAS LABORALES</tspan>
+          </text>
+          <g
+             id="g2301">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2303"
+               style="fill:none;stroke:#b2b9bd;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 198.887,42.359 H 420.672" />
+          </g>
+          <g
+             id="g2305">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2307"
+               style="fill:none;stroke:#b2b9bd;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 198.887,157.613 H 420.672" />
+          </g>
+          <g
+             id="g2309">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2311"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 204.426,27.266 c 0,1.554 -1.262,2.816 -2.817,2.816 -1.554,0 -2.816,-1.262 -2.816,-2.816 0,-1.559 1.262,-2.821 2.816,-2.821 1.555,0 2.817,1.262 2.817,2.821 z" />
+          </g>
+          <g
+             id="g2313">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2315"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 197.945,34.363 c -0.203,0.094 0.524,-4.398 3.743,-4.261 2.941,0.125 3.96,4.394 3.644,4.261" />
+          </g>
+          <g
+             id="g2317">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2319"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 198.77,145.195 h 7.742 v 5.254 h -7.672 z" />
+          </g>
+          <g
+             id="g2321">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2323"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 198.77,145.195 1.273,2.207 h 5.07 l 1.399,-2.207" />
+          </g>
+          <g
+             id="g2325">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2327"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 201.895,147.75 v 0.926 h 1.609 v -1.16 h -1.656 z" />
+          </g>
+          <g
+             id="g2329">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2331"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 200.625,144.98 v -1.679 h 4.023 v 1.726" />
+          </g>
+          <text
+             id="text2335"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#1a9788;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(216.06549,370.66827)">
+            <tspan
+               id="tspan2333"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.3297091 11.564078 17.864708 24.388283 30.795538 37.319111 43.61005 47.312881 55.009342 58.712173 63.946541 70.363487 75.656021 82.169899">RECONOCIMIENTOS</tspan>
+          </text>
+          <g
+             id="g2337">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2339"
+               style="fill:none;stroke:#b2b9bd;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 198.887,378.734 H 420.672" />
+          </g>
+          <g
+             id="g2341">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2343"
+               style="fill:none;stroke:#1a9788;stroke-width:0.46771699;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 204.598,364.793 c 0,0.305 -0.25,0.551 -0.555,0.551 -0.305,0 -0.551,-0.246 -0.551,-0.551 0,-0.305 0.246,-0.555 0.551,-0.555 0.305,0 0.555,0.25 0.555,0.555 z" />
+          </g>
+          <g
+             id="g2345">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2347"
+               style="fill:none;stroke:#1a9788;stroke-width:0.46771699;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 202.672,366.836 -1.844,4.051 1.309,-1.34 0.168,1.84 1.472,-4.219 z" />
+          </g>
+          <g
+             id="g2349">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2351"
+               style="fill:none;stroke:#1a9788;stroke-width:0.46771699;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 205.723,366.836 1.84,4.051 -1.305,-1.34 -0.168,1.84 -1.473,-4.219 z" />
+          </g>
+          <g
+             id="g2353">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2355"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 206.422,364.793 c 0,1.312 -1.067,2.375 -2.379,2.375 -1.313,0 -2.375,-1.063 -2.375,-2.375 0,-1.313 1.062,-2.379 2.375,-2.379 1.312,0 2.379,1.066 2.379,2.379 z" />
+          </g>
+          <text
+             id="text2359"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#1a9788;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(216.06549,560.1303)">
+            <tspan
+               id="tspan2357"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.7271338 11.971196 18.300905 24.630615 30.698605 38.395065 42.097897 47.332268 53.749214 59.022358 65.090347">HERRAMIENTAS</tspan>
+          </text>
+          <g
+             id="g2361">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2363"
+               style="fill:none;stroke:#b2b9bd;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 198.887,568.5 H 420.672" />
+          </g>
+          <g
+             id="g2365">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2367"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 199.551,552.902 h 7.953 v 4.782 h -7.957 z" />
+          </g>
+          <g
+             id="g2369">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2371"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 200.328,558.039 -0.937,1.488 h 8.453 l -0.821,-1.476 z" />
+          </g>
+          <text
+             id="text2391"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,57.504576)">
+            <tspan
+               id="tspan2373"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.853673 6.7323203 9.2063656 12.894217 16.601969 18.299973 21.662817 25.350668 27.824713 31.300316 32.580452 35.83717 39.233177 42.59602 46.283875 49.34824 52.730984 56.438732 60.126587 61.406723 65.114471 68.590073 69.870209 71.568214 74.931061 76.211197 79.288826 82.651672 85.324699 87.997726 91.473328 94.007072 97.369919 98.650047 100.68633 104.37418 106.60944 110.29729 112.97033 118.41588 121.77872 124.25277 125.95077 129.04829 132.41115 133.69128 137.0873 138.36743 141.58435 145.05995 148.15749 151.84534 155.53319 157.23119 160.91904 164.30841 166.00642 169.36926 170.6494 176.7516 180.43945 182.13745 184.6115 186.30951 191.75505 195.23065 198.93842 200.63641 203.99925">Estudiante avanzado de la carrera Informática y Tecnología Multimedia</tspan>
+            <tspan
+               id="tspan2375"
+               sodipodi:role="line"
+               y="8.7558575"
+               x="0 1.698004 7.1435556 10.804877 14.167721 16.84075 19.314795 21.012798 24.720551 28.083393 29.363529 33.024849 36.712704 39.385735 40.665867 42.363873 45.726715 47.006851 51.848816 55.536671 57.234673 60.537823 64.01342 66.686455 69.565102 71.263107 74.970856 78.333702 82.041451 83.321587 87.029335 90.485039 91.765175 96.308662 99.996513 102.87516 105.34921 108.71205 109.99219 114.26373 115.96173 119.05927 122.4221 123.82826 125.1084 128.76973 132.15247 134.8255 137.29955 138.99754 142.09508 143.79308 147.45441 150.81725 154.5051 156.97914 160.45474 161.73488 165.09772 168.19525 170.6693 172.36729 175.67046 179.35831 180.63844 184.34619 187.82179 190.70044 194.40819 197.88379 199.14403 202.99107 206.8381 210.68515">impartida por la Universidad de Costa Rica, participante activo desde 2016</tspan>
+            <tspan
+               id="tspan2377"
+               sodipodi:role="line"
+               y="17.511715"
+               x="0 3.4756019 7.1634541 8.4435902 10.141594 13.504437 14.784574 17.882105 21.569956 27.015509 30.703362 34.391212 36.089218 39.796967 43.159813 46.867561 48.147697 51.85545 55.331051 56.611187 60.106686 63.79454 66.0298 68.503845 73.584595 76.947441 79.620468 83.096069 84.376205 87.785477 89.483482 93.191231 95.864265 99.339867 100.60011 103.99611 105.27625 108.98399 112.4596 115.55713 118.91998 122.62772 126.31557 127.59571 131.25703 134.94489 137.61792 138.89806 140.59605 143.95889 145.23903 150.53203 153.20506 156.59444 159.95728 163.64513 165.34314 168.4075 171.77034 174.86787 176.56589 180.25374 183.96149 185.24162 188.94937 192.42497 193.68521 195.38321 199.07106 201.94971">en la comunidad de Software Libre y becado por la Organización de los</tspan>
+            <tspan
+               id="tspan2379"
+               sodipodi:role="line"
+               y="26.26757"
+               x="0 3.853673 6.7323203 9.2063656 12.569209 16.27696 19.964813 22.84346 24.123596 28.633919 34.079472 37.535175 40.208202 41.906208 45.003738 48.366581 52.054436 55.742287 58.620934 59.90107 63.376671 67.064522 68.344658 70.818703 74.294304 79.739861 83.102699 85.981346 87.261482 90.949341 94.424942 95.705078 98.583725 102.05933 105.4487 109.13655 111.80958 113.50758 117.21534 120.57818 124.28593 125.56607 127.26407 130.95192 133.18718 136.87505 139.54807 144.99362 148.35646 150.83051 152.52852 155.62604 158.98889 160.39505 161.67519 165.42937 168.79221 171.88974 173.58774 175.28575 176.98375 180.6915 184.05434 187.7621 189.04224 192.51784 196.20569">Estados Americanos en temas de seguridad informática. Facilidad en</tspan>
+            <tspan
+               id="tspan2381"
+               sodipodi:role="line"
+               y="35.02343"
+               x="0 3.3628438 7.0705948 10.433438 14.09476 16.568804 19.951546 23.049078 24.747082 28.434933 32.122787 33.402924 36.765766 38.045902 41.753651 43.451656 46.754803 50.230408 52.903435 55.782082 59.144928 62.023575 63.303711 68.729362 72.417213 76.124969 79.487808 81.185814 82.88382 86.591568 89.954414 93.662163 97.137764 100.01641 101.29655 105.0043 108.4799 109.74014 112.21419 114.75455 118.1174 121.82515 125.188 126.87273 130.56059 131.84073 135.23672 136.51686 139.87971 143.58746 145.28546 148.76106 151.4341 153.90814 157.59599 158.87613 162.23897 163.5191 166.88196 170.58971 174.29745 177.98531 179.6833 182.35634 184.05434 186.72737">adaptación a diversas modalidades de trabajo y abierto a adquirir</tspan>
+            <tspan
+               id="tspan2383"
+               sodipodi:role="line"
+               y="43.779285"
+               x="0 3.6878524 7.3757048 10.765079 14.068228 17.756081 20.634727 21.914864 25.012394 28.700247 32.3881 36.075951 39.173481 40.871487 46.317039 48.015041 51.490643 55.178497 57.652542 61.340393 64.21904 65.625198 66.905334 70.420738 73.896339 75.594337 79.069946 82.167473 85.265007 86.963005 90.650864 94.338715 97.701553 101.40931 105.09716 106.3773 110.06515 113.42799 116.52552 118.22353 121.91138 125.59923 128.98198 130.67998 131.96011 135.62143 139.30928 141.98232 143.26245 144.96045 148.3233 149.60344 154.89644 158.75011 163.26042 164.54056 167.91667 169.19681 172.67241 174.37042 175.65056 181.75275 183.78903 188.33252 190.36879 194.28217 198.17563">nuevos conocimientos. Seleccionado nacional por la OEA y el MICITT</tspan>
+            <tspan
+               id="tspan2385"
+               sodipodi:role="line"
+               y="52.535141"
+               x="0 3.6613212 7.0241647 9.5711708 12.934014 14.21415 17.311682 20.999533 26.445086 30.106407 33.582008 36.056053 37.754059 40.427086 41.707222 43.405228 47.093079 49.567123 53.042725 55.715755 59.403606 62.766453 65.863983 67.561989 71.24984 74.937691 78.300537 79.998535 85.444092 88.919693 92.607544 95.081589 98.55719 99.837326 103.31293 107.00078 108.28091 112.8244 116.18725 119.84857 122.32262 126.01047 128.6835 132.1591 133.43924 137.3526 141.04045 144.51605 145.79619 149.55037 151.24838 154.61122 158.0006 159.28073 162.67674 163.95688 166.83553 168.53352 173.95918 177.6205 181.30835 184.187 185.88501 189.57286">para competir internacionalmente en Capture The Flag y simposios</tspan>
+            <tspan
+               id="tspan2387"
+               sodipodi:role="line"
+               y="61.291"
+               x="0 2.6730297 6.1486316 7.8466353 11.209479 14.30701 16.005014 19.692867 23.380718 26.743563 30.451313 34.139164 37.017815 38.297951 41.660793 42.940929 44.638931 48.001778 49.281914 52.160561 55.636162 59.025536 62.71339 65.386421 67.084419 70.792175 74.155014 77.86277 79.142906 80.840904 84.528763 86.764023 90.451874 93.124908 98.570457 101.9333 104.40735 106.10535 109.20288 112.56573 113.97189 115.25202 119.79551 123.17825 126.83957 130.20241 133.29994 134.99796 138.7057 142.06854 145.77629 147.05643 150.45244 151.73257 155.44032 157.13832 160.01698 163.6783 167.36615 171.054 172.752 176.45976 178.15776 179.85576 181.55377 185.26152 188.62436 192.33211">relacionados a la seguridad informática. Capacidad y disponibilidad</tspan>
+            <tspan
+               id="tspan2389"
+               sodipodi:role="line"
+               y="70.04686"
+               x="0 3.7077508 7.1833529 8.4634886 10.937533 13.464641 16.827484 20.535236 23.898079 25.582817 28.945662 31.61869 32.898827 36.374428 40.062283 41.342419 44.81802 48.525768 52.213623 53.911625 57.572948 61.260799 62.540936 65.014977 68.377823 72.065674 74.539719 78.227577 79.507706 82.983315 86.671165 87.951302 91.048828 94.736679 98.424538 100.6797 104.36755 107.04058 112.48613 115.84898 118.9465 120.64451 124.33236 128.02022 129.30035 132.39787 136.08574 141.53128 145.21913 146.49927 149.97487 153.66272 154.94286 156.64087 158.33887 162.04662 165.52222 168.04933 171.41217 174.47655 177.86592 181.57367 182.97983">de trabajar en equipo tanto en conformación como en liderazgo.</tspan>
+          </text>
+          <text
+             id="text2395"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,172.62078)">
+            <tspan
+               id="tspan2393"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.9547224 8.7487001 12.303896 17.013205 21.357706 25.549654 30.849283 34.278454 37.448948 42.748577 44.028713 48.366581 49.646717 54.60144 56.684147 60.239346 64.033325 69.047737 74.347366 75.627502 82.565445 86.359421">DESARROLLO Y DISEÑO WEB</tspan>
+          </text>
+          <text
+             id="text2399"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,181.37664)">
+            <tspan
+               id="tspan2397"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.2914395 7.6542835 11.342135 15.049887 18.73774 22.127113 25.834866 27.115002 30.6304 34.318253 36.016254 39.704109 42.80164 44.499641 48.187496 51.875347 55.350948 58.229595 59.509731 62.766453 66.613495 70.460533 74.307571 78.15461 79.434746 81.736336 83.016472 86.863518 90.710556 94.557594 98.404633">Bandogo Soluciones |2017 - 2018</tspan>
+          </text>
+          <text
+             id="text2403"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,199.6607)">
+            <tspan
+               id="tspan2401"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.1455173 8.3308315 13.630462 18.425997 22.770498 27.479807 33.648338 38.185192 42.629185 44.711895 50.011524 55.02594 56.306076 60.100056 65.114471 66.37471 71.170242 74.964226 78.519417 82.213905 87.513535 91.858032 95.652016 99.207207 100.48734 105.44207 109.23605 110.51618 114.94028 120.23991 125.25433 129.20085 132.99483 138.00925 140.09196 145.04668">PROGRAMACIÓN EN GESTORES DE CONTENIDO</tspan>
+          </text>
+          <text
+             id="text2407"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,208.41656)">
+            <tspan
+               id="tspan2405"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 40.00922 43.484821 44.764957 49.308445 52.996296 55.874943 58.348988 61.71183 62.991966 67.263512 68.96151 72.059044 75.42189 76.702026 78.691872 79.972008 83.819046 87.666084 91.51313 95.360168">Universidad de Costa Rica | 2019</tspan>
+          </text>
+          <text
+             id="text2411"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,498.64642)">
+            <tspan
+               id="tspan2409"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.5551958 7.9991908 12.17124 16.999939 23.168468 24.448605 28.892599 32.686577 36.838726 40.785259 42.867966 46.588985 48.671692 53.115688 57.334164 61.280697 63.363407 68.663033 73.677452 74.957588 78.678604 83.978233 88.322739 89.582977 96.520912 100.31489 104.63286 105.91299 110.86772 114.6617 119.371 123.16499 126.34874 131.64838 135.79388 139.58786">SCRUM CERTIFICATION FOR WEB DEVELOPER</tspan>
+          </text>
+          <text
+             id="text2415"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,507.40228)">
+            <tspan
+               id="tspan2413"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.5153987 6.6129293 9.2859592 12.973811 18.419363 19.699499 21.715879 25.40373 28.282379 30.756424 32.454426 34.928471 38.616325 41.09037 44.565971 45.846107 47.835957 49.116093 52.963131 56.810173 60.657211 64.50425">Scrum Institute | 2018</tspan>
+          </text>
+          <text
+             id="text2419"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#1a9788;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(216.06549,287.62583)">
+            <tspan
+               id="tspan2417"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.2343693 11.641624 18.203972 24.504602 30.533819 36.824757 40.527588 47.051163">EDUCACIÓN</tspan>
+          </text>
+          <g
+             id="g2421">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2423"
+               style="fill:none;stroke:#b2b9bd;stroke-width:0.75118101;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="M 198.887,294.727 H 420.672" />
+          </g>
+          <g
+             id="g2425">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2427"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 197.609,283.074 4.786,-2.761 4.875,2.812 -4.774,2.754 z" />
+          </g>
+          <g
+             id="g2429">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2431"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 199.598,284.496 v 3.004 h 6.035 v -3.172" />
+          </g>
+          <g
+             id="g2433">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2435"
+               style="fill:none;stroke:#1a9788;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 207.27,283.125 v 3.785 h 0.07" />
+          </g>
+          <text
+             id="text2439"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,311.38999)">
+            <tspan
+               id="tspan2437"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.3179712 8.8680906 13.312086 18.326504 20.409212 23.838385 27.267555 31.061533 35.406036 39.631145 43.325634 48.625263 49.905399 53.699375 58.713795 59.97403 63.768009 68.722733 73.55143 77.995422 82.545547 86.98954 89.07225 94.37188 99.386292 100.66643 106.83496 110.62894 115.58366 117.66637">BACHILLERATO EN EDUCACIÓN MEDIA</tspan>
+          </text>
+          <text
+             id="text2443"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,320.14585)">
+            <tspan
+               id="tspan2441"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.5434871 8.2313395 9.9293432 13.404945 16.794321 18.492325 22.180178 23.460312 28.003799 29.701803 33.177406 36.865257 39.339302">Colegio Cientí</tspan>
+          </text>
+          <text
+             id="text2447"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(238.54153,320.14585)">
+            <tspan
+               id="tspan2445"
+               y="0"
+               x="0">ﬁ</tspan>
+          </text>
+          <text
+             id="text2451"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(242.32224,320.14585)">
+            <tspan
+               id="tspan2449"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.0975306 6.7853832 8.0655184 12.609006 16.296858 19.175507 21.649551 25.032293 27.705322 30.378353 32.076355 35.173885 38.64949 42.337341 45.215988 48.671692 49.951828 51.941677 53.221813 57.068851 60.915894 64.762932 68.60997">co Costarricense | 2015</tspan>
+          </text>
+          <text
+             id="text2455"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,337.90781)">
+            <tspan
+               id="tspan2453"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.7939777 7.3491735 11.295706 16.124405 21.079128 23.181734 27.891041 32.90546 36.851994 40.645969 41.926105 46.084888 50.243671 54.95298 59.9674 64.059853 68.769157 73.723885 79.023514 80.30365 84.097626 89.112045 90.392181 92.474892 97.489304 101.21032 106.50995 110.85445 117.02299 121.2282 125.17473 127.25744 131.70143 136.41074 137.69087 142.02875 143.30888 147.25542 151.04939 155.49339 160.5078 165.80743 168.97792 174.27756 179.07309 181.15579 185.86511 187.14525 193.31377 198.14247 200.98796 204.93449 207.0172 213.18573 216.97971 221.93442 224.01714">ESTUDIANTE AVANZADO EN INFORMÁTICA Y TECNOLOGÍA MULTIMEDIA</tspan>
+          </text>
+          <text
+             id="text2459"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,346.66367)">
+            <tspan
+               id="tspan2457"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 40.00922 43.484821 44.764957 49.308445 52.996296 55.874943 58.348988 61.71183 62.991966 67.263512 68.96151 72.059044 75.42189 76.702026 78.691872 79.972008 83.819046 87.666084 91.51313 95.360168 96.640305 98.941895 100.22203 103.58488 106.6824 109.15645 112.8443 116.20715 117.90515 119.60316 123.31091 126.67375 130.3815">Universidad de Costa Rica | 2016 - actualidad</tspan>
+          </text>
+          <text
+             id="text2463"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,447.37029)">
+            <tspan
+               id="tspan2461"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.9465327 8.2910347 12.396755 16.734625 20.528603 24.972597 28.66045 33.960079 38.304581 40.387291 45.096596 46.376732 50.522251 54.700932 60.000561 63.721581 67.515556 71.070755 73.153458 78.453087 83.467506 88.176819 91.605988 92.886124 96.680099 101.69452 102.97466 106.52985 110.32383 115.11936 119.94806 124.29256 126.37527 131.15091 135.86021 140.81494 142.09508 144.17778 149.1922 152.91322 158.21284 162.55734 168.72588 172.93773 176.88426 178.96696 183.41096">TRAYECTORÍA PROFESIONAL EN SEGURIDAD INFORMÁTICA</tspan>
+          </text>
+          <text
+             id="text2467"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,456.12615)">
+            <tspan
+               id="tspan2465"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.2929969 7.9660263 11.355402 14.718246 18.406097 20.104101 23.188366 26.55121 29.648741 31.346745 35.034599 38.72245 40.002586 43.710335 47.18594 48.466076 50.164078 53.851929 56.730579 58.010715 61.864388 64.723137 67.197182 70.56002 74.267776 77.955627 80.834274 82.11441 86.624733 92.070282 95.545891 98.218918 99.916924 103.01445 106.3773 110.06515 113.753 116.63165 117.91178 119.90163 121.18177 125.02881 128.87585 132.72289 136.56993">Organización de los Estados Americanos | 2018</tspan>
+          </text>
+          <text
+             id="text2471"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,473.00836)">
+            <tspan
+               id="tspan2469"
+               sodipodi:role="line"
+               y="0"
+               x="0 2.0827079 6.4006791 10.194656 14.386604 19.686234 21.841902 26.55121 32.719742 36.513718 40.858219 42.940929 47.384922 52.094231 57.10865 58.388786 62.832779 67.170647 71.488617 75.2826 79.627098 83.182297 86.976273 91.420265 96.24897 100.59347 102.67618 106.62271 110.96058 112.24072 116.68471 121.69913 126.40844 129.8376 133.26678 137.06076 142.07518 146.87071">IBERO-AMERICAN CYBERSECURITY CHALLENGE</tspan>
+          </text>
+          <text
+             id="text2475"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,481.76421)">
+            <tspan
+               id="tspan2473"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.2929969 7.9660263 11.355402 14.718246 18.406097 20.104101 23.188366 26.55121 29.648741 31.346745 35.034599 38.72245 40.002586 43.710335 47.18594 48.466076 50.164078 53.851929 56.730579 58.010715 61.864388 64.723137 67.197182 70.56002 74.267776 77.955627 80.834274 82.11441 86.624733 92.070282 95.545891 98.218918 99.916924 103.01445 106.3773 110.06515 113.753 116.63165 117.91178 120.21337 121.49351 126.03699 129.72485 131.42285 135.1107 140.55626 144.26401 145.96201 149.32486 150.605 152.59483 153.87497 157.72202 161.56906 165.41609 169.26314">Organización de los Estados Americanos - Colombia | 2018</tspan>
+          </text>
+          <text
+             id="text2479"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,395.0761)">
+            <tspan
+               id="tspan2477"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.1455173 9.4451475 14.459565 18.253542 23.267962 27.214493 31.008471 32.288609 34.669792 35.949928 38.032635 40.115345 41.395481 45.839474 51.119205 56.133625 60.84293 62.92564 67.634949 69.737556 75.037186 76.317322 80.761314 84.535393 89.549812 93.496346 97.688293 102.81547 107.52477 113.69331 117.48728 121.83179 123.91449 128.35849 133.06779 138.08221 143.38184 144.66197 149.6167 153.41068 154.69081 158.24602 163.54564 167.24677 171.19328 177.75316 182.46246 186.80696 190.60095 191.88109 195.31026 197.39296 201.71094 206.05544">PONENTE - II CONVIVIO CENTROAMERICANO DE SOFTWARE LIBRE</tspan>
+          </text>
+          <text
+             id="text2483"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,403.83196)">
+            <tspan
+               id="tspan2481"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 39.518391 42.993992 46.091522 49.779373 53.467228 55.16523 58.853085 62.242458 63.94046 67.037994 70.400833 71.680969 75.388725 78.864326 80.144463 84.024666 87.387512 91.075363 94.458107 99.903656 103.2665 104.54664 106.53648 107.81662 111.66366 115.5107 119.35774 123.20478">Universidad Tecnológica de Panamá | 2017</tspan>
+          </text>
+          <text
+             id="text2487"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,420.71417)">
+            <tspan
+               id="tspan2485"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.1455173 9.4451475 14.459565 18.253542 23.267962 27.214493 31.008471 33.568741 35.949928 37.210167 43.378696 48.466076 52.558529 54.641235 58.070408 61.49958 66.22879 67.508926 72.052414 76.496407 80.44294 82.525642 86.684425 90.909538 94.856071 98.650047 99.930183 103.77723 107.62427 111.47131">PONENTE - MOZILLA ACTIVATE 2017</tspan>
+          </text>
+          <text
+             id="text2493"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,429.47002)">
+            <tspan
+               id="tspan2489"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 40.00922 43.484821 44.764957 49.308445 52.996296 55.874943 58.348988 61.71183 62.991966 67.263512 68.96151 72.059044 75.42189 76.702026 78.691872 79.972008 83.819046 87.666084 91.51313 95.360168">Universidad de Costa Rica | 2017</tspan>
+            <tspan
+               id="tspan2491"
+               sodipodi:role="line"
+               y="198.78528"
+               x="8.8392649 10.875543 14.563396 18.038998 20.917645 24.015175 27.378019 31.039341 34.514942 35.921101 37.201237 42.069733 43.767738 49.213287 52.874611 54.280769 55.560905 60.071228 63.77898 67.466835 71.174583 74.650185 75.930321 77.966599 79.664604 83.352455 86.231102 88.705147 91.232254 94.5951 98.302849 101.9907 104.22597 105.63213 106.91226 111.42258 115.13033 118.81818 122.52594 126.00154 127.28168 131.33434 135.02219 138.71004 141.18408 144.87193 147.75058 151.43843 155.12628 158.80751 160.21367 161.4938 165.78525 167.48325 170.95885 174.6467 178.35445 181.83005 184.04541 185.45157">Inkscape, Gimp, Adobe Ilustrador, Adobe Photoshop, Blender.</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2495"
+             style="fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 200.84,626.234 c 0,0.59 -0.477,1.071 -1.07,1.071 -0.59,0 -1.071,-0.481 -1.071,-1.071 0,-0.593 0.481,-1.07 1.071,-1.07 0.593,0 1.07,0.477 1.07,1.07 z" />
+          <text
+             id="text2499"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(206.34349,615.01262)">
+            <tspan
+               id="tspan2497"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.5153987 8.8083954 12.217669 13.497805 17.013205 20.488806 23.141937 26.445086 29.920687 32.149319 33.555477 34.835613 38.589794 40.287796 42.960827 46.436428 50.14418 53.507023 56.38567 59.861271 61.267433 62.547569 68.649773 72.337624 76.025475 79.414848 83.102699 88.097221 92.388664 93.794823 95.074959 101.17715 104.57317 108.08856 113.38156 116.97655">SQL Server, Firebase, MongoDB, MySQL.</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2501"
+             style="fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 200.84,614.336 c 0,0.59 -0.477,1.07 -1.07,1.07 -0.59,0 -1.071,-0.48 -1.071,-1.07 0,-0.594 0.481,-1.074 1.071,-1.074 0.593,0 1.07,0.48 1.07,1.074 z" />
+          <text
+             id="text2509"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(206.34349,584.12505)">
+            <tspan
+               id="tspan2503"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.0144181 8.9277868 15.029988 18.439262 22.286303 23.692461 24.972597 29.516085 33.031483 36.546883 40.393921 41.800083 43.080219 46.025192 49.27528 52.671288 56.03413 59.54953 62.64706 65.320091 67.018097 70.679413 73.153458 74.559616 75.839752 80.131195 83.819046 87.506897 89.980942 92.859589 95.333633 97.874008 101.23685 104.89818 106.32423 107.60437 111.11977 114.48261 117.36126 120.23991 121.64606 122.9262 126.20945 129.68506 132.56371 135.44235 136.84851 138.12865 144.23085 147.59369 150.06773 153.54333 156.21637 157.91437 161.27721 162.97522 164.67322 167.73759 171.2132 172.61935 173.89949 178.44298 181.95837 185.47377 186.73401 191.60251 194.27553 195.97354 199.68129 201.08745">HTML5, CSS3, JavaScript, Bootstrap, Sass, Less, Materialize, CSS Grid,</tspan>
+            <tspan
+               id="tspan2505"
+               sodipodi:role="line"
+               y="8.7558575"
+               x="0 2.9449756 6.2083268 9.6043348 12.967178 14.247314 17.762712 21.424034 24.097065 25.795069 29.48292 32.872295 34.278454 35.55859 39.830132 43.305733 46.668579 49.766109 52.240154 55.185127 58.700527 60.106686 61.386822 65.897148 69.584999 72.974373 76.662224 78.360229 81.723076 83.964973 85.371132 86.651268 88.687546 92.375397 96.063248 97.761253 100.85878 102.26494 103.54507 110.19781 113.88566 116.55869 120.26643 123.92776 126.60078 130.07639 132.95503 135.83368 137.23984 139.80011 144.79463 147.46767 151.15552 154.81683 158.17969 159.87769 161.28384 162.56398 165.50896 168.77231 172.16832 175.53116 176.81129 179.11288 180.39302 184.90335 188.5912 192.29895 194.97198 198.65984 200.35783 204.06558 205.47174">Java Spring, ReactJS, Angular, Ionic, Wordpress, Drupal, Java - Android,</tspan>
+            <tspan
+               id="tspan2507"
+               sodipodi:role="line"
+               y="17.511715"
+               x="0 4.0526581 9.0670757 12.303896 13.710055 14.990191 18.399466 21.762308 24.309315 27.572666 30.875814 34.351418 36.049419 37.455578 38.735714 43.750134 47.437984 51.145737 54.621338 57.566315 61.081715 62.487873 63.768009 67.455864 71.11718 76.562737 77.968895 79.249031 83.792519 85.198677 86.478813 91.022301 94.869339 96.275497 97.555634 102.06596 105.58136 108.81155 110.2177 115.23212 119.08579 122.40221 123.80836 125.0885 129.14116 132.53717 135.01122 138.69907 142.38692 146.07477 147.50082 148.78096 152.53514 154.23315 157.59599 160.47464 163.95024 165.3564 166.63654 169.84683 173.32243 177.01028 179.88893 183.57678">PHP, Laravel, NodeJS, npm, C, C#, ASP.NET, Python, Flask, Tensor</tspan>
+          </text>
+          <text
+             id="text2513"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(392.5933,601.63676)">
+            <tspan
+               id="tspan2511"
+               y="0"
+               x="0">ﬂ</tspan>
+          </text>
+          <text
+             id="text2517"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(396.5332,601.63676)">
+            <tspan
+               id="tspan2515"
+               sodipodi:role="line"
+               y="0"
+               x="0 3.6878524 8.5563478">ow.</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2519"
+             style="fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 200.84,583.309 c 0,0.593 -0.477,1.074 -1.07,1.074 -0.59,0 -1.071,-0.481 -1.071,-1.074 0,-0.59 0.481,-1.071 1.071,-1.071 0.593,0 1.07,0.481 1.07,1.071 z" />
+          <text
+             id="text2523"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,226.62762)">
+            <tspan
+               id="tspan2521"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.7093077 8.2645035 10.347212 13.922306 17.868839 21.662817 26.677235 30.623766 34.417744 35.69788 39.491859 44.506275 45.786411 49.998257 53.94479 56.027496 60.471493 61.963879 63.244015 67.688011 72.397316 75.56781 80.011803 84.8405 88.017624 93.317261 94.597389 98.444435 102.29147 103.57161 107.90948 109.16972 113.61371 118.91334 124.21297 128.53757 133.49229 135.575 140.58942 145.14618 149.59016 151.67288 156.9725 161.98692 163.26706 168.22179 172.01576 173.2959 177.71999 182.42931 186.7738 191.1183 194.91228 199.25679 203.96609">ASISTENTE EN ATIC, CÁLCULO 01 Y COORDINACIÓN DE CARRERA</tspan>
+          </text>
+          <text
+             id="text2527"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,235.38348)">
+            <tspan
+               id="tspan2525"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 40.00922 43.484821 44.764957 49.308445 52.996296 55.874943 58.348988 61.71183 62.991966 67.263512 68.96151 72.059044 75.42189 76.702026 78.691872 79.972008 83.819046 87.666084 91.51313 95.360168 96.640305 98.941895 100.22203 103.58488 106.6824 109.15645 112.8443 116.20715 117.90515 119.60316 123.31091 126.67375 130.3815">Universidad de Costa Rica | 2017 - actualidad</tspan>
+          </text>
+          <text
+             id="text2533"
+             style="font-variant:normal;font-weight:normal;font-size:18.80702019px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(30.19194,37.117004)">
+            <tspan
+               id="tspan2529"
+               sodipodi:role="line"
+               y="0"
+               x="0 11.773194 24.204636 36.636074 48.202393 55.010532 67.310326 79.948639 88.129692 99.902893">ANDY ROJAS</tspan>
+            <tspan
+               id="tspan2531"
+               sodipodi:role="line"
+               y="24.449125"
+               x="12.463374 24.66913 37.326256 49.626045 62.057487 74.714607 87.070824">CÓRDOBA</tspan>
+          </text>
+          <text
+             id="text2539"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.233698,87.256651)">
+            <tspan
+               id="tspan2535"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.4445128 9.7172194 13.503667 18.764835 24.033976 26.887762 31.750357 37.011524 40.797974 45.788113 48.139694 53.408836 58.398975 60.750557 64.010887 69.264084 72.779503 78.0327 82.058289 89.415955 94.278549 98.072968 100.92676 105.47049 110.33309 112.68467">Estudiante de Informática y</tspan>
+            <tspan
+               id="tspan2537"
+               sodipodi:role="line"
+               y="10.522968"
+               x="10.765261 15.444512 20.43465 24.970417 30.223614 35.484783 38.33857 43.591766 48.494217 51.348003 56.210598 58.562183 66.716995 71.970192 74.823975 78.618393 81.472183 88.829849 93.819984 99.089127 101.95088">Tecnología Multimedia</tspan>
+          </text>
+          <text
+             id="text2543"
+             style="font-variant:normal;font-weight:bold;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(28.584771,108.30259)">
+            <tspan
+               id="tspan2541"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.62429 11.965174 14.954473 19.888813 24.966639 29.040058 33.34465 36.325981 41.690777 46.672947 52.037743 54.389328 59.754124 64.831947 67.183533 73.337509 78.678391 82.982979 86.881027 91.87117 94.222755 100.24918 103.23051 107.85397">Universidad de Costa Rica</tspan>
+          </text>
+          <text
+             id="text2547"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(21.818679,225.26487)">
+            <tspan
+               id="tspan2545"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.2941213 9.0632133 14.094024 18.097345 20.501278 25.493317 27.897249 32.201061 36.941074 41.933113 44.337044 49.561722 54.679771 56.899529 62.007885 65.953049 68.172813 72.021042 76.790131 78.980812 83.972847 89.197525 95.595085 100.85854 105.97659 108.38052 113.48888 118.25797">PARTICIPACIÓN DE LA COMUNIDAD</tspan>
+          </text>
+          <text
+             id="text2565"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.677657,239.41367)">
+            <tspan
+               id="tspan2549"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.5357652 9.2867603 12.292004 15.58422 22.001251 26.361645 29.885033 34.372971 36.222351 40.630573 42.990128 47.757065 51.272484 55.760418 57.609798 63.389114 67.877052 72.628044 75.920258 79.443649 84.194649 88.555038 95.4105 99.898438 103.42183 105.77341 109.81494">Software Libre Centroamérica</tspan>
+            <tspan
+               id="tspan2551"
+               sodipodi:role="line"
+               y="10.522968"
+               x="0 4.9423103 9.2708178 13.989926 18.740921 22.519398 24.870979 28.155226 32.914192 36.429607 38.278988 40.997261 42.838669 47.780979 52.715317 57.657627 62.599937 64.441345 67.534279 69.375687 73.744049 77.777611 81.069832 85.820824 90.181221 92.532799 94.892357 99.659294 104.01968 108.78662">Expositor | 2016 - actualidad</tspan>
+            <tspan
+               id="tspan2553"
+               sodipodi:role="line"
+               y="22.500177"
+               x="0 5.7793145 10.53031 17.385771 22.136766 26.887762 29.247316 34.014256 38.374645 43.141586 44.990967 49.757904 54.245838 56.095219 59.945438 64.178291 68.578537 72.938934 77.474701 81.508263 85.031647 87.383232 92.110313 95.394554 97.243935 103.02325">Comunidad de JavaScript CR</tspan>
+            <tspan
+               id="tspan2555"
+               sodipodi:role="line"
+               y="33.023144"
+               x="0 7.6446376 10.004192 14.492128 21.347591 26.114529 29.637918 34.388912 36.230324 38.948593 40.797974 45.732311 50.674622 55.608959 60.55127">Miembro | 2018</tspan>
+            <tspan
+               id="tspan2557"
+               sodipodi:role="line"
+               y="44.866138"
+               x="0 8.3062696 13.065236 16.580654 21.355562 26.074673 29.598061 34.085999 37.856503 41.627007 43.476387 48.657841 53.416805 58.167801 61.452045 65.820412 69.335831 73.823769 78.582733 82.943123">Wordpress Puntarenas</tspan>
+            <tspan
+               id="tspan2559"
+               sodipodi:role="line"
+               y="55.389107"
+               x="0 7.6446376 10.004192 14.492128 21.347591 26.114529 29.637918 34.388912 36.230324 38.948593 40.797974 45.732311 50.674622 55.608959 60.55127 62.40065 65.485611 67.334991 72.269325 77.211639 82.145981 87.088287">Miembro | 2018 - 2019</tspan>
+            <tspan
+               id="tspan2561"
+               sodipodi:role="line"
+               y="67.901901"
+               x="0 4.9423103 9.2708178 13.989926 18.740921 26.39353 30.881468 35.648403 37.999989 42.368351 44.209763 46.975861 51.989914 59.634552 62.719509 68.857544 74.644829">ExpoMedia ITM-UCR</tspan>
+            <tspan
+               id="tspan2563"
+               sodipodi:role="line"
+               y="78.424873"
+               x="0 4.9423103 9.8766489 14.818959 19.753298 21.602678 24.687637 26.537018 30.897409 34.938946 38.22319 42.974182 47.342548 49.69413 52.045715 56.820625 61.181015">2017 - actualidad</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2567"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.762,236.523 c 0,0.704 -0.571,1.274 -1.274,1.274 -0.703,0 -1.273,-0.57 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.274,0.566 1.274,1.269 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2569"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.762,259.09 c 0,0.703 -0.571,1.273 -1.274,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.699 0.57,-1.27 1.273,-1.27 0.703,0 1.274,0.571 1.274,1.27 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2571"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.762,281.859 c 0,0.704 -0.571,1.274 -1.274,1.274 -0.703,0 -1.273,-0.57 -1.273,-1.274 0,-0.703 0.57,-1.273 1.273,-1.273 0.703,0 1.274,0.57 1.274,1.273 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2573"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.762,304.227 c 0,0.703 -0.571,1.269 -1.274,1.269 -0.703,0 -1.273,-0.566 -1.273,-1.269 0,-0.704 0.57,-1.274 1.273,-1.274 0.703,0 1.274,0.57 1.274,1.274 z" />
+          <text
+             id="text2577"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(21.818679,505.11163)">
+            <tspan
+               id="tspan2575"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.6527724 8.5979357 13.628746 18.213665 23.438341 28.556391 33.325481 37.173714 39.577644 44.686001 49.455093">PERSONALIDAD</tspan>
+          </text>
+          <text
+             id="text2581"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.530136,519.04327)">
+            <tspan
+               id="tspan2579"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.1894255 9.9404202 14.691416 17.983631 22.734627 27.09502">Puntual</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2583"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.801,516.773 c 0,0.704 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.57 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.566 1.27,1.269 z" />
+          <text
+             id="text2587"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.530136,531.1839)">
+            <tspan
+               id="tspan2585"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.4524841 9.9404202 13.710925 18.430035 23.189001 27.939995 31.710499 36.070892 40.83783 43.197384">Responsable</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2589"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.801,528.914 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.566 1.27,1.269 z" />
+          <text
+             id="text2593"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.530136,553.55938)">
+            <tspan
+               id="tspan2591"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.7793145 10.53031 17.385771 22.136766 26.887762 29.247316 33.28088 37.641273 41.682808 44.034389 48.785385 53.536381 55.385761 59.746151 63.524628 68.012566 71.527985 74.820198 77.171783 81.572029">Comunicación asertiva</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2595"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.801,551.289 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.699 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.57 1.27,1.269 z" />
+          <text
+             id="text2599"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.530136,564.32464)">
+            <tspan
+               id="tspan2597"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.6446376 12.403605 15.687849 18.047403 22.439682 26.800076 31.567013 36.318008 38.167389 42.527782 44.377163 47.900551 52.388489 56.158993 60.909988 63.269543 67.550217 72.038155 75.561546 77.410927 82.130035 85.653427 90.404419 95.171356 97.530914 102.01088 108.86634 113.2347">Motivado a resolver problemas</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2601"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.801,562.055 c 0,0.703 -0.567,1.273 -1.27,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.703 0.57,-1.27 1.273,-1.27 0.703,0 1.27,0.567 1.27,1.27 z" />
+          <text
+             id="text2605"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.530136,542.38836)">
+            <tspan
+               id="tspan2603"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.3763361 7.7482667 12.10866 16.875597 21.235991 23.579603 28.330597 30.179977 34.667915 39.418911 41.268291 45.756226 50.523163 55.274158 57.625744 62.344852">Trabajo en equipo</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2607"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.801,540.121 c 0,0.703 -0.567,1.27 -1.27,1.27 -0.703,0 -1.273,-0.567 -1.273,-1.27 0,-0.703 0.57,-1.273 1.273,-1.273 0.703,0 1.27,0.57 1.27,1.273 z" />
+          <text
+             id="text2611"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(21.818664,345.69731)">
+            <tspan
+               id="tspan2609"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.4379277 10.20702 15.286296 17.690229 21.53846 23.942392 29.050749 33.819839 38.928196 42.87336">HABILIDADES</tspan>
+          </text>
+          <text
+             id="text2623"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.155128,359.84611)">
+            <tspan
+               id="tspan2613"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.3213739 10.809311 14.579815 18.948179 22.471569 25.994957 30.745953 33.097534 35.44912 40.208084 42.049492 50.363735 54.851673">Desarrollo Web</tspan>
+            <tspan
+               id="tspan2615"
+               sodipodi:role="line"
+               y="12.068603"
+               x="0 6.3213739 10.809311 14.579815 18.948179 22.471569 25.994957 30.745953 33.097534 35.44912 40.208084 42.049492 49.702103 54.341496 58.733776 61.09333">Desarrollo Móvil</tspan>
+            <tspan
+               id="tspan2617"
+               sodipodi:role="line"
+               y="37.161503"
+               x="0 5.7793145 10.53031 15.281304 20.04027 24.073833 26.425417 33.28088 35.632462 40.120399 44.879364 48.163609 52.914604 56.685108 58.534489 63.022427 67.773422 69.622803 74.158569 78.6465 83.03878 87.78978 91.313164 93.664749 98.431686 102.80005">Conocimientos en Seguridad</tspan>
+            <tspan
+               id="tspan2619"
+               sodipodi:role="line"
+               y="47.684467"
+               x="0 2.7581279 7.5091228 10.522338 15.273333 18.796722 25.652184 30.012577 33.296822 35.656376 39.689938">Informática</tspan>
+            <tspan
+               id="tspan2621"
+               sodipodi:role="line"
+               y="82.635132"
+               x="0 5.7793145 10.53031 15.281304 20.04027 24.073833 26.425417 33.28088 35.632462 40.120399 44.879364 48.163609 52.914604 56.685108 58.534489 63.301426 67.789368 69.638748 74.174507 79.108849">Conocimientos de SEO</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2625"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,357.578 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.703 0.57,-1.273 1.273,-1.273 0.703,0 1.27,0.57 1.27,1.273 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2627"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,368.887 c 0,0.703 -0.567,1.273 -1.27,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.699 0.57,-1.27 1.273,-1.27 0.703,0 1.27,0.571 1.27,1.27 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2629"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,394.457 c 0,0.699 -0.567,1.27 -1.27,1.27 -0.703,0 -1.273,-0.571 -1.273,-1.27 0,-0.703 0.57,-1.273 1.273,-1.273 0.703,0 1.27,0.57 1.27,1.273 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2631"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,439.77 c 0,0.703 -0.567,1.273 -1.27,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.7 0.57,-1.27 1.273,-1.27 0.703,0 1.27,0.57 1.27,1.27 z" />
+          <text
+             id="text2635"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.155128,455.13749)">
+            <tspan
+               id="tspan2633"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.3213739 8.6809282 12.451433 16.939369 21.690365 26.441359 28.290739 34.460655 37.824615">Diseño Grá</tspan>
+          </text>
+          <text
+             id="text2639"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(68.340137,455.13749)">
+            <tspan
+               id="tspan2637"
+               y="0"
+               x="0">ﬁ</tspan>
+          </text>
+          <text
+             id="text2643"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(73.521591,455.13749)">
+            <tspan
+               id="tspan2641"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.0335627">co</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2645"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,452.285 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.699 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.57 1.27,1.269 z" />
+          <text
+             id="text2651"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.155128,466.7299)">
+            <tspan
+               id="tspan2647"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.1380305 9.908535 14.65953 16.508911 21.275848 25.763784 27.613165 34.468628 38.956566 42.24081 46.991802 51.758743 56.517708 58.869289 63.620285 68.012566 70.372116 74.732513 78.503014 80.352394 84.712791 89.105072 91.464622 93.816208 98.304146">Uso de metodologías ágiles</tspan>
+            <tspan
+               id="tspan2649"
+               sodipodi:role="line"
+               y="10.522968"
+               x="0 4.7669377 9.2548742 11.104255 15.871193 20.359129 24.129633 28.490026 32.013416 35.536804 40.2878 42.647354 44.998936">de desarrollo</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2653"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,463.879 c 0,0.703 -0.567,1.273 -1.27,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.703 0.57,-1.274 1.273,-1.274 0.703,0 1.27,0.571 1.27,1.274 z" />
+          <text
+             id="text2657"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.155128,384.24124)">
+            <tspan
+               id="tspan2655"
+               sodipodi:role="line"
+               y="0"
+               x="0 7.6446376 12.013002 16.763998 21.251934 23.587574 28.33857 30.18795 34.954887 39.442825 41.292206 47.071518 54.724129">Manejo de CMS</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2659"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,381.973 c 0,0.703 -0.567,1.273 -1.27,1.273 -0.703,0 -1.273,-0.57 -1.273,-1.273 0,-0.703 0.57,-1.274 1.273,-1.274 0.703,0 1.27,0.571 1.27,1.274 z" />
+          <text
+             id="text2665"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.155128,420.3422)">
+            <tspan
+               id="tspan2661"
+               sodipodi:role="line"
+               y="0"
+               x="0 5.7793145 10.53031 15.281304 20.04027 24.073833 26.425417 33.28088 35.632462 40.120399 44.879364 48.163609 52.914604 56.685108 58.534489 63.022427 67.773422 69.622803 74.38974 78.75013 82.52861 87.008575">Conocimientos en bases</tspan>
+            <tspan
+               id="tspan2663"
+               sodipodi:role="line"
+               y="10.522968"
+               x="0 4.7669377 9.2548742 11.104255 15.871193 20.231586 23.523802 28.274797">de datos</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2667"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 20.426,417.789 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.566 1.27,1.269 z" />
+          <text
+             id="text2671"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.905136,618.33049)">
+            <tspan
+               id="tspan2669"
+               sodipodi:role="line"
+               y="0"
+               x="0 2.7581279 7.5091228 11.909373 14.260956 18.748892 22.519398 24.839094 26.688475 29.446602 34.20557 37.489815 41.977749 45.501141 52.356602 56.84454 61.611477 63.963058">Inglés: Intermedio</tspan>
+          </text>
+          <text
+             id="text2675"
+             style="font-variant:normal;font-weight:normal;font-size:9.69327641px;font-family:Oswald;-inkscape-font-specification:Oswald-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(21.818679,593.48674)">
+            <tspan
+               id="tspan2673"
+               sodipodi:role="line"
+               y="0"
+               x="0 2.4039323 7.512289 9.9162216 15.140897 21.53846 26.30755">IDIOMAS</tspan>
+          </text>
+          <text
+             id="text2679"
+             style="font-variant:normal;font-weight:normal;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(26.905136,607.41838)">
+            <tspan
+               id="tspan2677"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.9423103 8.7128143 13.431924 17.792316 22.543312 27.302279 29.65386 31.973558 33.822937 40.168228 44.528622 47.812866 50.172421 54.453098">Español: Nativo</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2681"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 21.176,605.148 c 0,0.704 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.57 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.566 1.27,1.269 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2683"
+             style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 21.176,617.289 c 0,0.703 -0.567,1.274 -1.27,1.274 -0.703,0 -1.273,-0.571 -1.273,-1.274 0,-0.703 0.57,-1.269 1.273,-1.269 0.703,0 1.27,0.566 1.27,1.269 z" />
+          <text
+             id="text2687"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,253.5216)">
+            <tspan
+               id="tspan2685"
+               sodipodi:role="line"
+               x="0"
+               y="0">DESARROLLADOR SEGURO, FRONT END Y DISEÑADOR</tspan>
+          </text>
+          <text
+             id="text2691"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,262.27746)">
+            <tspan
+               id="tspan2689"
+               sodipodi:role="line"
+               y="0"
+               x="0 6.7522187 10.440071 12.138075 14.61212 18.087723 19.367857 22.312834 25.675676 29.065052 32.752903 36.115749 38.788776 41.667427 42.947563 47.457886 51.119205 54.780525 58.295925 61.771526 64.869057 66.149193 69.664589 70.885033 75.42852 76.708656 78.698502 79.978638 83.825684 87.672722 91.51976 95.366798 96.646935 98.948524 100.22866 103.59151 106.68904 109.16309 112.85094 116.21378 117.91178 119.60979 123.31754 126.68038 130.38814">White Jaguars AppSec S.C | 2019 - actualidad</tspan>
+          </text>
+          <text
+             id="text2695"
+             style="font-variant:normal;font-weight:bold;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,524.21149)">
+            <tspan
+               id="tspan2693"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.1455173 9.4451475 14.459565 18.253542 23.267962 27.214493 31.008471 32.288609 34.669792 35.949928 40.453617 42.536327 43.816463 48.260456 53.540188 58.554607 63.263912 65.346619 70.055931 72.158539 77.458168 78.738304 83.182297 86.976273 91.970795 95.917328 100.10928 105.23645 109.94576 116.11429 119.90826 124.25277 126.33547 130.77946 135.48878 140.50319 145.80283 147.08296 152.03769 155.83167 157.1118 160.66699 165.96663 169.66774 173.61427 180.17413 184.88345 189.22795 193.02193 194.30206 197.73123 199.81395 204.13191 208.47641">PONENTE - XI CONVIVIO CENTROAMERICANO DE SOFTWARE LIBRE</tspan>
+          </text>
+          <text
+             id="text2699"
+             style="font-variant:normal;font-weight:normal;font-size:6.63282824px;font-family:Lato;-inkscape-font-specification:Lato-Regular;writing-mode:lr-tb;fill:#363934;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(197.50422,532.96735)">
+            <tspan
+               id="tspan2697"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.8419642 8.5298166 10.22782 13.537602 17.013205 19.686234 22.56488 24.262884 27.970636 31.333479 35.041229 36.301468 42.403671 45.879272 48.757919 52.44577 55.808617 61.254166 64.729767 67.402802 69.1008 72.198334 75.56118 79.249031 82.61187 83.892006 86.193604 87.473732 91.619255 95.094856 96.792862 100.1557 101.56186 102.842 107.71049 111.39835 114.76119 117.23524 120.71084 126.15639 129.51923 131.21724 134.58008 135.86021 137.85007 139.1302 142.97723 146.82428 150.67133 154.51836">Universidad Mesoamericana - Xela, Guatemala | 2019</tspan>
+          </text>
+          <path
+             inkscape:connector-curvature="0"
+             id="path2701"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 22.805,137.414 c -0.012,-0.012 -0.145,-0.035 -0.289,-0.047 -0.528,-0.054 -0.629,-0.066 -0.661,-0.097 -0.015,-0.016 -0.093,-0.028 -0.167,-0.028 -0.079,0 -0.141,-0.015 -0.141,-0.031 0,-0.02 -0.043,-0.043 -0.09,-0.055 -0.129,-0.027 -0.602,-0.179 -0.668,-0.211 -0.031,-0.015 -0.086,-0.031 -0.121,-0.031 -0.035,0 -0.074,-0.012 -0.082,-0.031 -0.012,-0.02 -0.051,-0.031 -0.09,-0.031 -0.035,0 -0.082,-0.02 -0.101,-0.043 -0.024,-0.024 -0.2,-0.118 -0.395,-0.204 -0.199,-0.089 -0.367,-0.171 -0.379,-0.187 -0.012,-0.016 -0.055,-0.047 -0.098,-0.07 -0.269,-0.145 -0.546,-0.328 -0.789,-0.528 -0.031,-0.023 -0.07,-0.047 -0.089,-0.047 -0.016,0 -0.032,-0.011 -0.032,-0.031 0,-0.019 -0.027,-0.031 -0.066,-0.031 -0.035,0 -0.063,-0.012 -0.063,-0.027 -0.004,-0.039 -0.175,-0.219 -0.293,-0.301 -0.062,-0.043 -0.132,-0.102 -0.152,-0.129 -0.019,-0.027 -0.191,-0.207 -0.379,-0.402 -0.187,-0.192 -0.359,-0.383 -0.379,-0.426 -0.023,-0.039 -0.129,-0.18 -0.234,-0.317 -0.106,-0.132 -0.192,-0.257 -0.192,-0.281 0,-0.023 -0.011,-0.039 -0.027,-0.039 -0.012,0 -0.047,-0.055 -0.078,-0.125 -0.027,-0.066 -0.09,-0.16 -0.137,-0.211 -0.047,-0.051 -0.086,-0.105 -0.086,-0.117 0,-0.016 -0.043,-0.113 -0.093,-0.219 -0.051,-0.105 -0.118,-0.246 -0.145,-0.312 -0.031,-0.063 -0.074,-0.133 -0.101,-0.157 -0.028,-0.023 -0.051,-0.074 -0.051,-0.113 0,-0.039 -0.012,-0.086 -0.028,-0.101 -0.011,-0.016 -0.058,-0.141 -0.097,-0.274 -0.043,-0.137 -0.09,-0.269 -0.106,-0.301 -0.015,-0.031 -0.027,-0.086 -0.027,-0.117 0,-0.031 -0.024,-0.086 -0.047,-0.121 -0.043,-0.066 -0.141,-0.523 -0.23,-1.09 -0.028,-0.172 -0.051,-0.554 -0.055,-0.847 -0.004,-0.5 0,-0.547 0.07,-0.684 0.11,-0.223 0.883,-0.961 1.055,-1.012 0.074,-0.019 0.168,-0.05 0.207,-0.066 0.098,-0.039 0.375,-0.039 0.469,-0.004 0.043,0.016 0.136,0.047 0.207,0.07 0.117,0.039 0.211,0.106 0.465,0.332 0.089,0.082 0.253,0.418 0.296,0.614 0.02,0.078 0.047,0.152 0.067,0.156 0.019,0.008 0.035,0.07 0.035,0.137 0,0.07 0.016,0.136 0.031,0.148 0.02,0.008 0.035,0.066 0.035,0.129 0,0.059 0.012,0.117 0.028,0.129 0.066,0.039 0.129,0.922 0.074,1.043 -0.016,0.035 -0.055,0.117 -0.082,0.179 -0.027,0.063 -0.184,0.247 -0.344,0.407 l -0.293,0.293 0.035,0.148 c 0.02,0.082 0.055,0.168 0.082,0.199 0.024,0.028 0.043,0.082 0.043,0.118 0,0.039 0.016,0.078 0.032,0.089 0.019,0.012 0.035,0.043 0.035,0.075 0,0.058 0.211,0.507 0.265,0.566 0.024,0.023 0.063,0.09 0.09,0.141 0.082,0.168 0.285,0.457 0.356,0.504 0.039,0.027 0.07,0.066 0.07,0.089 0,0.039 0.578,0.629 0.621,0.629 0.012,0 0.078,0.051 0.149,0.114 0.07,0.062 0.226,0.175 0.355,0.25 0.125,0.074 0.277,0.168 0.34,0.203 0.172,0.105 0.59,0.281 0.664,0.281 0.019,0 0.094,0.027 0.16,0.066 0.215,0.114 0.246,0.098 0.652,-0.324 0.164,-0.172 0.356,-0.269 0.657,-0.348 0.242,-0.058 0.254,-0.058 0.734,0.075 0.18,0.047 0.227,0.058 0.602,0.152 0.316,0.078 0.574,0.184 0.75,0.305 0.175,0.125 0.441,0.461 0.441,0.562 0,0.031 0.012,0.071 0.031,0.082 0.02,0.012 0.032,0.16 0.032,0.34 0,0.18 -0.012,0.332 -0.032,0.344 -0.019,0.012 -0.031,0.051 -0.031,0.086 0,0.035 -0.07,0.137 -0.156,0.226 -0.086,0.09 -0.176,0.196 -0.199,0.235 -0.024,0.039 -0.102,0.113 -0.168,0.16 -0.071,0.051 -0.161,0.141 -0.204,0.203 -0.039,0.063 -0.136,0.145 -0.218,0.184 -0.082,0.039 -0.172,0.082 -0.203,0.097 -0.067,0.035 -1.016,0.039 -1.047,0.008 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2703"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 18.578,153.688 c -1.867,-1.469 -3.371,-2.762 -3.371,-2.899 0,-0.219 9.098,-0.094 9.168,0.129 0.035,0.098 -0.859,0.918 -1.984,1.816 -1.481,1.184 -2.172,1.641 -2.496,1.641 -0.278,0 -0.77,-0.258 -1.317,-0.687 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2705"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 14.641,158.75 c -0.176,-0.074 -0.453,-0.277 -0.61,-0.453 -0.254,-0.285 -0.281,-0.633 -0.242,-3.211 0.043,-2.852 0.051,-2.895 0.402,-2.945 0.25,-0.036 0.723,0.257 1.555,0.968 3.492,2.989 3.567,3.039 4.274,3.043 0.425,0 0.75,-0.207 1.707,-1.089 2.148,-1.989 3.461,-2.981 3.863,-2.926 0.367,0.054 0.371,0.066 0.414,2.933 l 0.043,2.879 -0.953,0.953 -5.063,-0.011 c -2.785,-0.004 -5.211,-0.071 -5.39,-0.145 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path2707"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 22.125,188.746 c 0,1.254 -1.016,2.274 -2.273,2.274 -1.254,0 -2.27,-1.02 -2.27,-2.274 0,-1.254 1.016,-2.273 2.27,-2.273 1.257,0 2.273,1.019 2.273,2.273 z" />
+          <g
+             id="g2709">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2711"
+               style="fill:none;stroke:#ffffff;stroke-width:1.01338601;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 24.871,188.746 c 0,2.719 -2.203,4.926 -4.922,4.926 -2.722,0 -4.926,-2.207 -4.926,-4.926 0,-2.719 2.204,-4.926 4.926,-4.926 2.719,0 4.922,2.207 4.922,4.926 z" />
+          </g>
+          <g
+             id="g2713">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2715"
+               style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 19.902,183.965 c -0.05,-0.192 0,-1.992 0,-1.992" />
+          </g>
+          <g
+             id="g2717">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2719"
+               style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 19.902,195.328 c -0.05,-0.191 0,-1.988 0,-1.988" />
+          </g>
+          <g
+             id="g2721">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2723"
+               style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 24.617,188.648 c 0.192,-0.05 1.988,-0.023 1.988,-0.023" />
+          </g>
+          <g
+             id="g2725">
+            <path
+               inkscape:connector-curvature="0"
+               id="path2727"
+               style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 13.254,188.781 c 0.191,-0.051 1.988,-0.023 1.988,-0.023" />
+          </g>
+          <text
+             id="text2737"
+             style="font-variant:normal;font-weight:bold;font-size:7.97146797px;font-family:Lato;-inkscape-font-specification:Lato-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             transform="translate(38.155926,135.83572)">
+            <tspan
+               id="tspan2729"
+               sodipodi:role="line"
+               y="0"
+               x="0 4.9423103 9.8766489 14.818959 19.753298 21.602678 26.544989 31.479326 36.421638 41.355976 43.205357 48.147667 53.082005 58.024315">+506 6196 1583</tspan>
+            <tspan
+               id="tspan2731"
+               sodipodi:role="line"
+               y="21.958923"
+               x="-1.5913441 2.8886209 7.7352734 12.597869 17.157549 20.720795 25.559475 28.03063 32.510597 36.312984 40.426262 47.289696 52.120407 55.683655 60.522335 63.926151 68.764832 73.603516 80.634346 85.114311 87.593437 90.072563 92.177032 96.290314 101.13696">andyrojasc@protonmail.com</tspan>
+            <tspan
+               id="tspan2733"
+               sodipodi:role="line"
+               y="55.787354"
+               x="-1.464833 3.8361933 8.6748743 13.513556 16.917372 21.397337 24.960583 29.536205 34.382858 38.862823 42.665215 44.514595 47.69521 49.54459 55.196362 60.035042 63.837433 67.233276 71.721214 73.562622 79.094826 81.573952 85.687225">Puntarenas - Costa Rica</tspan>
+            <tspan
+               id="tspan2735"
+               sodipodi:role="line"
+               y="39.194584"
+               x="-1.4813377 2.9986274 7.8452797 12.707875 17.267555 20.830801 25.669483 28.140638 32.620602 36.422993 41.261673 45.37495 48.946171 55.809605 60.24971 67.272575 71.752541 74.231667 76.710793 78.815262 82.936508 87.775192">andyrojasucr@gmail.com</tspan>
+          </text>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
